@@ -3,55 +3,80 @@
 ---
 
 
-## Halls of Arden Vul — Player Wiki
+# Halls of Arden Vul — Player Wiki
 
-This is a player-side reference for the [[Halls of Arden Vul\|Halls of Arden Vul]] campaign run on [[OSRIC\|OSRIC]] 3.0 with houserules from [[The Halls of Arden Vul Player Doc\|The Halls of Arden Vul Player Doc]]. See [[Full Vault Wiki and Formatting\|Full Vault Wiki and Formatting]] for the vault's structure and conventions.
+Player-side reference for the [[Halls of Arden Vul\|Halls of Arden Vul]] campaign on [[OSRIC\|OSRIC]] 3.0 with houserules from [[The Halls of Arden Vul Player Doc\|The Halls of Arden Vul Player Doc]]. Click any link below to browse — or use the **search** in the site header to jump straight to a note.
 
-## Quick links
+> [!info] New player? Start here
+> Read [[Modified Character Creation\|Modified Character Creation]], pick a [[Class\|Class]] and [[Ancestry\|Ancestry]], roll your stats, then duplicate [[Templates/Player Template\|Player Template]] and fill it in. The 8-step walkthrough is at the bottom of this page.
 
-- [[Houserules Index\|Houserules Index]] — every modification the GM has made to the base rules
-- [[Categories\|Categories]] — every category in the vault, with auto-generated bases
-- [[Pantheon\|Pantheon]] — [[The Ten\|The Ten]] and [[The Seventeen\|The Seventeen]]
-- [[Seven Collegia\|Seven Collegia]] — the seven magic-user colleges
-- [[Spellcasting\|Spellcasting]] — general rules for casting
+---
 
-## Character Creation walkthrough
+## Browse the Wiki
 
-1. **Generate ability scores** — see [[Modified Character Creation\|Modified Character Creation]]. 3d6 in order, then swap any two.
-2. **Select an [[Ancestry\|Ancestry]]** — [[Human\|Human]] (with [[Culture\|Culture]]), [[Dwarf\|Dwarf]], [[Elf\|Elf]], [[Half-Elf\|Half-Elf]], [[Halfling\|Halfling]], [[Half-Orc\|Half-Orc]], or [[Imperial Goblin\|Imperial Goblin]] (replaces [[Gnome\|Gnome]] in this setting).
-3. **Pick a [[Class\|Class]]** — [[Assassin\|Assassin]], [[Cleric\|Cleric]], [[Druid\|Druid]], [[Fighter\|Fighter]], [[Illusionist\|Illusionist]], [[Magic-User\|Magic-User]], [[Monk\|Monk]], [[Paladin\|Paladin]], [[Ranger\|Ranger]], or [[Thief\|Thief]]. ([[Multi-Classing\|Multi-Classing]] and [[Dual-Classing\|Dual-Classing]] not used at start.)
-4. **Select [[Alignment\|Alignment]]** — nine alignments. (Restrictions per class are lifted except [[Cleric\|Cleric]] must match their deity.)
+Pick a category to see every note inside it. Each page lists its members alphabetically with sub-groupings where useful.
+
+### Characters
+
+- 📜 [[All Classes\|All Classes]] — every player class (Fighter, Cleric, Magic-User, etc.)
+- 🌳 [[All Ancestries\|All Ancestries]] — playable species + cultures
+- ⚖️ [[All Alignments\|All Alignments]] — the nine alignments
+- 🗣️ [[All Languages\|All Languages]] — languages of the setting
+- 🌍 [[All Cultures\|All Cultures]] — Archontean / Thorcin / Wiskin
+- 🎲 [[All Ability Scores\|All Ability Scores]] — STR / DEX / CON / INT / WIS / CHA
+- 🎯 [[All Class Skills\|All Class Skills]] — class abilities (backstab, turn undead, etc.)
+- ✨ [[All Ancestral Traits\|All Ancestral Traits]] — infravision, stalwart, lightfooted, etc.
+
+### Magic
+
+- 🔮 [[All Spells\|All Spells]] — every spell, grouped by class and level
+- 🏛️ [[All Schools of Magic\|All Schools of Magic]] — the eight schools
+- 🎓 [[All Colleges\|All Colleges]] — the [[Seven Collegia\|Seven Collegia]] of magic-users
+- ⛪ [[All Deities\|All Deities]] — [[The Ten\|The Ten]] and [[The Seventeen\|The Seventeen]]
+
+### Gear
+
+- ⚔️ [[All Weapons\|All Weapons]] — melee + missile
+- 🛡️ [[All Armour\|All Armour]]
+- 🎒 [[All Equipment\|All Equipment]] — adventuring gear
+- 📦 [[All Containers\|All Containers]] — backpacks, sacks, quivers, etc.
+
+### Rules & Play
+
+- 📖 [[All Houserules\|All Houserules]] — every campaign-specific modification
+- 🎲 [[All Mechanics\|All Mechanics]] — saving throws, encumbrance, combat, advancement
+- 💀 [[All Conditions\|All Conditions]] — status conditions
+- 📚 [[All Concepts\|All Concepts]] — glossary of game terminology
+
+### Master Index
+
+- 🗂️ [[By Category\|By Category]] — everything on one long page (2,800+ links across 62 categories)
+
+---
+
+## Player Tools
+
+- 📝 [[Templates/Player Template\|Player Template]] — full OSRIC character sheet template (page-12 layout) with embedded inventory grid + spell book
+- 🎒 [[Templates/Inventory Sheet Blank\|Inventory Sheet Blank]] — standalone slot-based inventory grid with [[Strength\|Strength]] row gating
+- 📜 [[Houserules Index\|Houserules Index]] — curated houserule overview with rationale
+
+---
+
+## Character Creation Walkthrough
+
+1. **Generate ability scores** — 3d6 in order, then swap any two. See [[Modified Character Creation\|Modified Character Creation]].
+2. **Select an [[Ancestry\|Ancestry]]** — [[Human\|Human]] (with [[Culture\|Culture]]), [[Dwarf\|Dwarf]], [[Elf\|Elf]], [[Half-Elf\|Half-Elf]], [[Halfling\|Halfling]], [[Half-Orc\|Half-Orc]], or [[Imperial Goblin\|Imperial Goblin]] (replaces [[Gnome\|Gnome]]).
+3. **Pick a [[Class\|Class]]** — [[Assassin\|Assassin]], [[Cleric\|Cleric]], [[Druid\|Druid]], [[Fighter\|Fighter]], [[Illusionist\|Illusionist]], [[Magic-User\|Magic-User]], [[Monk\|Monk]], [[Paladin\|Paladin]], [[Ranger\|Ranger]], or [[Thief\|Thief]]. (No [[Multi-Classing\|Multi-Classing]] or [[Dual-Classing\|Dual-Classing]] at start.)
+4. **Select [[Alignment\|Alignment]]** — nine alignments. ([[Cleric\|Cleric]] must match deity alignment.)
 5. **Roll starting funds** and buy [[Equipment\|Equipment]]. Track via [[Slot-Based Encumbrance\|Slot-Based Encumbrance]].
 6. **Magic-Users:** pick one of the [[Seven Collegia\|Seven Collegia]]; you start with [[Read Magic\|Read Magic]] + 2 random + 2 chosen spells.
 7. **Clerics:** pick a deity from [[The Ten\|The Ten]] or [[The Seventeen\|The Seventeen]].
 8. **Starting rumours:** roll 1d3 [[Adventuring Rumour\|Adventuring Rumour]] + 1d2 [[Historical Rumour\|Historical Rumour]].
 
-## Categories
+---
 
-- Character: [[Ancestry\|ancestry]], [[Culture\|culture]], [[Class\|class]], [[ability-score\|ability-score]], [[Alignment\|alignment]], [[Language\|language]], [[skill\|skill]], [[trait\|trait]]
-- Magic: [[spell\|spell]], [[school-of-magic\|school-of-magic]], [[college\|college]], [[deity\|deity]]
-- Gear: [[weapon\|weapon]], [[armour\|armour]], [[Equipment\|equipment]], [[container\|container]]
-- Play: [[mechanic\|mechanic]], [[condition\|condition]], [[Downtime\|downtime]]
-- Setting: [[OSRIC\|osric]], [[arden-vul\|arden-vul]], [[concept\|concept]], [[houserule\|houserule]]
+## Source Documents
 
-## Source documents
-
-- [[References/OSRIC 3.0 Player Guide\|References/OSRIC 3.0 Player Guide]]
-- [[References/The Halls of Arden Vul Player Doc\|References/The Halls of Arden Vul Player Doc]]
-
-
-```base
-views:
-  - type: table
-    name: Table
-    filters:
-      and:
-        - "!categories.isEmpty()"
-    order:
-      - categories
-      - file.basename
-    columnSize:
-      note.categories: 401
-
-```
-
+- [[References/OSRIC 3.0 Player Guide\|References/OSRIC 3.0 Player Guide]] — base ruleset
+- [[References/The Halls of Arden Vul Player Doc\|References/The Halls of Arden Vul Player Doc]] — campaign-specific houserules, deities, collegia, cultures
+- [[Full Vault Wiki and Formatting\|Full Vault Wiki and Formatting]] — vault structure and conventions
