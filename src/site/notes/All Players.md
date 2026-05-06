@@ -17,13 +17,14 @@ Every real-world player at the table. See [[Player\|Player]] for the concept and
 filters:
   and:
     - "categories.contains(\"[[player]]\")"
+    - "file.folder != \"Templates\""
+formulas:
+  link: "file.asLink()"
 views:
   - type: table
     name: Players
     order:
-      - file.basename
-      - player_name
-      - status
+      - formula.link
     columnSize:
       note.categories: 401
 

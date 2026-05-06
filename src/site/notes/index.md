@@ -8,13 +8,36 @@
 Player-side reference for the [[Halls of Arden Vul\|Halls of Arden Vul]] campaign on [[OSRIC\|OSRIC]] 3.0 with houserules from [[The Halls of Arden Vul Player Doc\|The Halls of Arden Vul Player Doc]]. Click any link below to browse — or use the **search** in the site header to jump straight to a note.
 
 > [!info] New player? Start here
-> Read [[Modified Character Creation\|Modified Character Creation]], pick a [[Class\|Class]] and [[Ancestry\|Ancestry]], roll your stats, then duplicate [[Templates/Player Template\|Player Template]] and fill it in. The 8-step walkthrough is at the bottom of this page.
+> Read [[Modified Character Creation\|Modified Character Creation]], pick a [[Class\|Class]] and [[Ancestry\|Ancestry]], roll your stats, fill out [[Templates/Player Template\|Player Template]] and reach out to William to have him add it in. The 8-step walkthrough is at the bottom of this page.
 
 ---
 
 ## The Party
 
 Live roster of who's playing what. Each character is owned by a player; each player can have multiple characters.
+
+### 🎭 Players
+
+
+```base
+filters:
+  and:
+    - "categories.contains(\"[[player]]\")"
+    - "file.folder != \"Templates\""
+formulas:
+  link: "file.asLink()"
+views:
+  - type: table
+    name: Players
+    order:
+      - formula.link
+    columnSize:
+      note.categories: 401
+
+```
+
+
+### 🔗 More
 
 - ⚔️ [[All Characters\|All Characters]] — every character in the campaign (alive, dead, retired) with class, ancestry, level, and owner
 - 🎭 [[All Players\|All Players]] — every real-world player at the table with their notes and linked characters
