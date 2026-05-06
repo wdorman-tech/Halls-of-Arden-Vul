@@ -9,7 +9,7 @@
 - **Movement Cap:** 90ft
 - **Weight:** 10 lb
 - **Cost:** 4 gp
-- **Encumbrance Slots (Player Doc):** 4 in 2x2
+- **Inventory Slots:** 4 in 2x2
 
 ## Allowed for
 
@@ -29,4 +29,4 @@ Quilted, padded fabric — a gambeson. Cheap, easily made, and surprisingly effe
 - [[Leather Armour\|Leather Armour]]
 - [[Studded Leather\|Studded Leather]]
 - [[Armour Class\|Armour Class]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]

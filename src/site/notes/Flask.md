@@ -8,7 +8,7 @@
 - **Capacity:** small liquid (typically 1 pint)
 - **Weight:** -- (empty leather flask)
 - **Cost:** 3 cp
-- **Encumbrance Slots:** 0 worn / 1 if many carried
+- **Inventory Slots:** 0 worn / 1 if many carried
 
 ## Notes
 

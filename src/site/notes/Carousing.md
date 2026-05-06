@@ -20,7 +20,7 @@ Carousing is one of four standard downtime activities (see [[Downtime\|Downtime]
 | 2 | **Surprise! You're married!** |
 | 3 | **You have made an enemy.** Your new enemy's strength is proportional to the amount you spent on Carousing this week. |
 | 4 | **Robbed or swindled.** Lose an additional **1d10% of the amount you planned to spend** carousing. If you cannot afford this, you are now in debt to a powerful individual. |
-| 5 | **Disease exposure.** Save vs. Poison or be afflicted with a random one of the following for 1d6 days: 1. **Nighteyes** — extremely uncomfortable when within 15 feet of a light source; 2. **Gravelung** — max speed set to 90 feet; 3. **Vul's Frailty** — takes two encumbrance slots; 4. **Set's Finger** — cannot recover health from resting. |
+| 5 | **Disease exposure.** Save vs. Poison or be afflicted with a random one of the following for 1d6 days: 1. **Nighteyes** — extremely uncomfortable when within 15 feet of a light source; 2. **Gravelung** — max speed set to 90 feet; 3. **Vul's Frailty** — -2 to all melee damage rolls; 4. **Set's Finger** — cannot recover health from resting. |
 | 6 | **Bar fight!** Save vs. Death or start the next adventure missing **1d6 HP**. You cannot regain these by extending downtime. |
 | 7 | **Drinking contest!** Save vs. Poison or start the next adventure missing **1d4 HP**. You cannot regain these by extending downtime. |
 | 8 | **Interesting talks at the bar.** Learn 1 [[Adventuring Rumour\|Adventuring Rumour]]. |

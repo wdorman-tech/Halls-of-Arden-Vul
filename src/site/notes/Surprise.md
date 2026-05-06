@@ -21,7 +21,6 @@ A party that has alerted monsters (e.g. by hammering on a door for a round or tw
 - **Dexterity surprise bonus:** *negates* surprise segments for the bonused individual; cannot create surprise on the other side
 - **Stealthy monsters:** may surprise on a 3+, 4+, etc. — these *do* affect the other side's chance
 - **Special abilities:** some monsters cannot be surprised at all
-- **Encumbrance modifies:** see [[Encumbrance\|Encumbrance]] table
 - **Linked encounter distance:** if either side is surprised, distance is 1d3 x 10 ft; otherwise 1d4+4 x 10 ft (or yards outside)
 
 ## Related

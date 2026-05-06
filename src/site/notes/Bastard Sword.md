@@ -14,7 +14,7 @@
 - **Damage Type:** Slashing
 - **Weight:** 10 lb
 - **Cost:** 25 gp
-- **Encumbrance Slots:** 2 (large item — Player Doc lists "claymore" as 2 slots)
+- **Inventory Slots:** 2 (large item — Player Doc lists "claymore" as 2 slots)
 
 ## Notes
 

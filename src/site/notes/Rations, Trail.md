@@ -7,7 +7,7 @@
 
 - **Cost:** 2 gp per day
 - **Weight:** 1 lb per day
-- **Encumbrance Slots:** 1 per several days
+- **Inventory Slots:** 1 per several days
 
 ## Notes
 

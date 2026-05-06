@@ -7,7 +7,7 @@
 
 - **Cost:** 2 sp per sheet
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0 (loose); 1 per ream
+- **Inventory Slots:** 0 (loose); 1 per ream
 
 ## Notes
 

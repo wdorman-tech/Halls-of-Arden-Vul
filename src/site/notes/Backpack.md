@@ -8,7 +8,7 @@
 - **Capacity:** 3 cubic ft / 30 lbs
 - **Cost:** 2 gp
 - **Weight:** 2 lb (empty)
-- **Encumbrance Slots:** itself counts as 1; provides slot capacity for carried items
+- **Inventory Slots:** itself counts as 1; provides slot capacity for carried items
 
 ## Notes
 
@@ -20,5 +20,5 @@ The Player Doc slot system organises slots into a grid; standard items take 1 sl
 
 - [[Sack\|Sack]]
 - [[Pouch\|Pouch]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]
 - [[Equipment\|Equipment]]

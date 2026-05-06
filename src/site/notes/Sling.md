@@ -13,7 +13,7 @@
 - **Rate of Fire:** 1 per round
 - **Weight:** 0.5 lb
 - **Cost:** 5 sp
-- **Encumbrance Slots:** 0 or 1 (light item)
+- **Inventory Slots:** 0 or 1 (light item)
 
 ## Notes
 

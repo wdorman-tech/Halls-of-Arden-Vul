@@ -14,7 +14,7 @@
 - **Damage Type:** Slashing
 - **Weight:** 7 lb
 - **Cost:** 10 gp
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

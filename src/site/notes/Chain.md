@@ -7,7 +7,7 @@
 
 - **Cost:** 1 gp per 10 ft
 - **Weight:** 10 lb per 10 ft
-- **Encumbrance Slots:** 2 per 10 ft (large/heavy item)
+- **Inventory Slots:** 2 per 10 ft (large/heavy item)
 
 ## Notes
 

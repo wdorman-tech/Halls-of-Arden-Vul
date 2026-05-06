@@ -19,7 +19,7 @@
 
 ## 📜 Notes
 
-Inventory sheet for [[Maximilian\|Maximilian]] ([[Elf\|Elf]] [[Magic-User\|Magic-User]], [[Strength\|STR]] 8). Rows 1–2 reachable without [[Slot-Based Encumbrance\|encumbrance]] penalty (12 slots). One [[Backpack\|Backpack]] (free, 9-slot encompassing) plus held items, with the heavy gear strapped to his pack [[Mule\|Mule]] — _Lord Elgatio, Conqueror of Arden and Hero of Vul_.
+Inventory sheet for [[Maximilian\|Maximilian]] ([[Elf\|Elf]] [[Magic-User\|Magic-User]], [[Strength\|STR]] 8). One [[Backpack\|Backpack]] (free, 9-slot encompassing) plus held items, with the heavy gear strapped to his pack [[Mule\|Mule]], [[Lord Elgatio\|Lord Elgatio]] — _Conqueror of Arden and Hero of Vul_.
 
 ---
 
@@ -35,36 +35,17 @@ Inventory sheet for [[Maximilian\|Maximilian]] ([[Elf\|Elf]] [[Magic-User\|Magic
         ╚═══╩═══╩═══╩═══╩═══╩═══╝
 ```
 
-| 💪 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
+| 🎒 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
 |---|---|---|---|---|---|---|
-| **STR 3** | 🍞 [[Rations, Standard\|Rations]] ×4 | 🍞 [[Rations, Standard\|Rations]] ×4 | 🪝 [[Grappling Hook\|Grappling Hook]] | 🪢 [[Rope, 50 ft\|Rope, 50 ft]] | 🛏 [[Bedroll\|Bedroll]] | 🪶 [[Writing Satchel\|Writing Satchel]] |
-| **STR 6** | 💰 Coin Purse | _ | _ | _ | _ | _ |
-| **STR 9** | _ | _ | _ | _ | _ | _ |
-| **STR 12** | _ | _ | _ | _ | _ | _ |
-| **STR 15** | _ | _ | _ | _ | _ | _ |
-| **STR 18** | _ | _ | _ | _ | _ | _ |
-| **STR 19** | _ | _ | _ | _ | _ | _ |
+| **Row 1** | 🍞 [[Rations, Standard\|Rations]] ×4 | 🍞 [[Rations, Standard\|Rations]] ×4 | 🪝 [[Grappling Hook\|Grappling Hook]] | 🪢 [[Rope, 50 ft\|Rope, 50 ft]] | 🛏 [[Bedroll\|Bedroll]] | 🪶 [[Writing Satchel\|Writing Satchel]] |
+| **Row 2** | 💰 Coin Purse | _ | _ | _ | _ | _ |
+| **Row 3** | _ | _ | _ | _ | _ | _ |
+| **Row 4** | _ | _ | _ | _ | _ | _ |
+| **Row 5** | _ | _ | _ | _ | _ | _ |
+| **Row 6** | _ | _ | _ | _ | _ | _ |
+| **Row 7** | _ | _ | _ | _ | _ | _ |
 
 > [!info] 🎒 **Backpack contents** (5 of 9 backpack slots used): rations ×8, grappling hook, rope, bedroll. The **Writing Satchel** (slung over the shoulder, outside the backpack) holds the spellbook + quill in a single shared slot. Staff and lamp are held — see Worn/Held below.
-
----
-
-## ⚖️ Encumbrance Penalties
-
-```
-   ━━━━━━━━━━━━━━ ✦ ━ The Weight of Greed ━ ✦ ━━━━━━━━━━━━━━
-```
-
-> [!warning] 🪨 You can place items in any row, but rows above your [[Strength\|Strength]] threshold cost you dearly.
-
-| 📦 Rows beyond Strength | 💀 Effect |
-|---|---|
-| 🟡 **1** | 🐢 Movement reduced to ¾ base |
-| 🟠 **2** | 🐌 Movement halved; no surprise bonuses |
-| 🔴 **3** | 🪦 Movement to ¼; no surprise bonuses; -1 to surprise |
-| ⚫ **4** | ⛓️ Cannot move; no surprise bonuses; -2 to surprise |
-
-> [!tip] 🦉 *"Greed is the dungeon's slowest predator — and its most reliable."*
 
 ---
 
@@ -130,7 +111,7 @@ Inventory sheet for [[Maximilian\|Maximilian]] ([[Elf\|Elf]] [[Magic-User\|Magic
 | 🛍️ [[Sack\|Sack]] | 4 *(2×2)* or 9 *(3×3)* | Bulk goods — Maximilian's mule carries 1 large sack (loaded) + 3 spare large sacks |
 | 📜 [[Scroll Case\|Scroll Case]] | 1 | Up to 3 scrolls |
 
-> [!tip] 🎒 A container's encompassed slots can extend past your STR threshold — the container itself is **not** affected by your row limit, but the items inside it still count toward your encumbrance row count.
+> [!tip] 🎒 Containers themselves don't take a slot — they encompass a region of the grid, and items go into those encompassed slots.
 
 ---
 
@@ -169,13 +150,13 @@ Inventory sheet for [[Maximilian\|Maximilian]] ([[Elf\|Elf]] [[Magic-User\|Magic
 
 ---
 
-## 🐴 Pack Animal — _Lord Elgatio, Conqueror of Arden and Hero of Vul_
+## 🐴 Pack Animal — [[Lord Elgatio\|Lord Elgatio]], _Conqueror of Arden and Hero of Vul_
 
 ```
    ━━━━━━━━━━━━━━ ✦ ━ The Mule's Burden ━ ✦ ━━━━━━━━━━━━━━
 ```
 
-> 📖 See [[Mule\|Mule]] — encumbered at 200 lbs, max 600 lbs. Mules are the only draft animal that will descend into a [[Dungeon\|Dungeon]] — invaluable for hauling treasure and supplies into and out of the deep.
+> 📖 See [[Mule\|Mule]] — 24 inventory slots (6 × 4 grid). Mules are the only draft animal that will descend into a [[Dungeon\|Dungeon]] — invaluable for hauling treasure and supplies into and out of the deep.
 
 **Inside large [[Sack\|Sack]] #1 (loaded):**
 - 🛢 [[Flask\|Flask]] of [[Oil\|Oil]] ×3
@@ -196,8 +177,7 @@ Inventory sheet for [[Maximilian\|Maximilian]] ([[Elf\|Elf]] [[Magic-User\|Magic
 ```
 
 - 🪪 [[Maximilian\|Maximilian]] — character sheet
-- 🎒 [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] — full ruleset
-- 💪 [[Strength\|Strength]] — gates rows
+- 🎒 [[Slot-Based Inventory\|Slot-Based Inventory]] — full ruleset
 - 🐴 [[Mule\|Mule]] — pack animal stats
 - ⚔️ [[Equipment\|Equipment]] — gear list
 - 🪪 [[Templates/Player Template\|Player Template]] — sheet template

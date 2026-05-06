@@ -7,7 +7,7 @@
 
 - **Cost:** 3 gp
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

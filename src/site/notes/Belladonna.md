@@ -7,7 +7,7 @@
 
 - **Cost:** typically 10 gp per dose
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

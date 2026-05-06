@@ -9,7 +9,7 @@
 - **Movement Cap:** 120ft (no reduction)
 - **Weight:** 15 lb
 - **Cost:** Not sold (gift only)
-- **Encumbrance Slots (Player Doc):** 4 in 2x2
+- **Inventory Slots:** 4 in 2x2
 
 ## Allowed for
 

@@ -67,7 +67,7 @@ Decide whether to use the shield bonus just before the attacker rolls.
 
 ## Related
 
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]
 - [[Movement Rate\|Movement Rate]]
 - [[Equipment\|Equipment]]
 - [[Weapon Speed Factor\|Weapon Speed Factor]]

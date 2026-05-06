@@ -8,7 +8,7 @@
 - **Capacity:** 1 cubic foot / 5 lbs
 - **Cost:** 4 sp
 - **Weight:** ~2 lb (empty)
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

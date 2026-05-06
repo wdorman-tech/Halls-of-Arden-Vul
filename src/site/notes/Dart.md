@@ -13,7 +13,7 @@
 - **Rate of Fire:** 3 per round
 - **Weight:** 0.5 lb
 - **Cost:** 2 sp
-- **Encumbrance Slots:** 1 per handful
+- **Inventory Slots:** 1 per handful
 
 ## Notes
 

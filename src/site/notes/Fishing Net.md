@@ -7,7 +7,7 @@
 
 - **Cost:** 4 sp per 25 sq ft
 - **Weight:** -- (negligible per square unit)
-- **Encumbrance Slots:** 1 (per net)
+- **Inventory Slots:** 1 (per net)
 
 ## Notes
 

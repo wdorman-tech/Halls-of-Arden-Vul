@@ -7,7 +7,7 @@
 
 - **Cost:** 2 cp
 - **Weight:** 0.5 lb
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

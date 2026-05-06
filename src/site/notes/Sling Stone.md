@@ -7,7 +7,7 @@
 
 - **Cost:** Found
 - **Weight:** 2 lb per dozen
-- **Encumbrance Slots:** 1 per pouch
+- **Inventory Slots:** 1 per pouch
 
 ## Notes
 

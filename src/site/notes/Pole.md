@@ -7,7 +7,7 @@
 
 - **Cost:** 2 sp per 10 ft
 - **Weight:** 8 lb per 10 ft
-- **Encumbrance Slots:** 2 (large item)
+- **Inventory Slots:** 2 (large item)
 
 ## Notes
 

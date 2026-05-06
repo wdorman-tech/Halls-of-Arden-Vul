@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/maximilian/","dg-note-properties":{"aliases":[null],"categories":["[[character]]","[[arden-vul]]"],"owner":"[[William\|William]]","character_name":"Maximilian","inventory_sheet":"[[Maximilian — Inventory\|Maximilian — Inventory]]","class":"[[Magic-User\|Magic-User]]","ancestry":"[[Elf\|Elf]]","alignment":"[[True Neutral\|True Neutral]]","level":1,"xp":0,"age":173,"height":"5'1\"","weight":92,"gender":"Male","hp_current":2,"hp_max":2,"ac":10,"movement_rate":120,"str":8,"dex":13,"con":10,"int":18,"wis":8,"cha":14,"created":"05-05-2026 12:00"}}
+{"dg-publish":true,"permalink":"/maximilian/","dg-note-properties":{"aliases":[null],"categories":["[[character]]","[[arden-vul]]"],"owner":"[[William\|William]]","character_name":"Maximilian","inventory_sheet":"[[Maximilian — Inventory\|Maximilian — Inventory]]","class":"[[Magic-User\|Magic-User]]","ancestry":"[[Elf\|Elf]]","alignment":"[[True Neutral\|True Neutral]]","created":"05-05-2026 12:00"}}
 ---
 
 
 ```
    ╔══════════════════════════════════════════════════════════════════╗
-   ║  ⚔️  ✦  ⚜  ✦  ⚔️                                       ⚔️  ✦  ⚜  ✦  ⚔️  ║
-   ║                                                                  ║
    ║          𝕿𝖍𝖊 𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊 𝖔𝖋 𝖆 𝕯𝖚𝖓𝖌𝖊𝖔𝖓𝖊𝖊𝖗            ║
    ║              ✦ Halls of Arden Vul ✦                              ║
-   ║                                                                  ║
-   ║  ⚔️  ✦  ⚜  ✦  ⚔️                                       ⚔️  ✦  ⚜  ✦  ⚔️  ║
    ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -56,7 +52,7 @@
 
 | ✦ | Score | Value | Modifiers / Tracked Values |
 |---|---|---|---|
-| 💪 | **[[Strength\|STR]]** | 8 | To Hit: 0 • Damage: 0 • Slot rows reachable: 1–2 (12 slots) • Minor/Major Test: see [[Strength\|Strength]] |
+| 💪 | **[[Strength\|STR]]** | 8 | To Hit: 0 • Damage: 0 • Minor/Major Test: see [[Strength\|Strength]] |
 | 🤸 | **[[Dexterity\|DEX]]** | 13 | Surprise: 0 • Missile To Hit: 0 • AC Bonus: 0 • Agility Save Bonus: 0 • Missile Initiative Bonus: 0 |
 | 🧱 | **[[Constitution\|CON]]** | 10 | HP Bonus: 0 • Resurrection Success: 75% • System Shock: 70% |
 | 🧠 | **[[Intelligence\|INT]]** | 18 | Add'l Languages: 7 • Prime requisite — **+10% XP bonus** on all earned XP |
@@ -84,15 +80,10 @@
 ## ⚔️ Weapons & Armour
 
 ```
-       ╲
-        ╲  ╲
-        │═══╪══════════════════════════════════>
-        ╱  ╱
-       ╱
    ━━━━━━━━━━━━━━ ✦ ━ Iron & Edge ━ ✦ ━━━━━━━━━━━━━━
 ```
 
-| 🗡️ Weapon | 🩸 vs S-M | 🩸 vs L | 📐 Length | 🏹 RoF | 🎯 Range (-2/inc) | ⏱️ Speed | ✋ Space | 🎒 Encum. |
+| 🗡️ Weapon | 🩸 vs S-M | 🩸 vs L | 📐 Length | 🏹 RoF | 🎯 Range (-2/inc) | ⏱️ Speed | ✋ Space | 🎒 Slots |
 |---|---|---|---|---|---|---|---|---|
 | [[Staff\|Staff]] | 1d6 | 1d6 | 8' | — | — | 4 | 2H | 2 |
 
@@ -128,17 +119,17 @@
 
 📜 **Detailed inventory sheet:** [[Maximilian — Inventory\|Maximilian — Inventory]]
 
-> 📖 See [[Slot-Based Encumbrance\|Slot-Based Encumbrance]]. STR 8 → rows 1–2 reachable (12 slots); carrying past row 2 inflicts encumbrance penalties.
+> 📖 See [[Slot-Based Inventory\|Slot-Based Inventory]]. The grid is purely organisational — items get placed in slots so the GM and player can see what's carried at a glance.
 
-| 💪 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
+| 🎒 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
 |---|---|---|---|---|---|---|
-| **STR 3** | 🍞 Rations ×4 | 🍞 Rations ×4 | 🪝 Grappling Hook | 🪢 Rope, 50 ft | 🛏 Bedroll | 🪶 [[Writing Satchel\|Writing Satchel]] |
-| **STR 6** | 💰 Coins | _ | _ | _ | _ | _ |
-| **STR 9** | _ | _ | _ | _ | _ | _ |
-| **STR 12** | _ | _ | _ | _ | _ | _ |
-| **STR 15** | _ | _ | _ | _ | _ | _ |
-| **STR 18** | _ | _ | _ | _ | _ | _ |
-| **STR 19** | _ | _ | _ | _ | _ | _ |
+| **Row 1** | 🍞 Rations ×4 | 🍞 Rations ×4 | 🪝 Grappling Hook | 🪢 Rope, 50 ft | 🛏 Bedroll | 🪶 [[Writing Satchel\|Writing Satchel]] |
+| **Row 2** | 💰 Coins | _ | _ | _ | _ | _ |
+| **Row 3** | _ | _ | _ | _ | _ | _ |
+| **Row 4** | _ | _ | _ | _ | _ | _ |
+| **Row 5** | _ | _ | _ | _ | _ | _ |
+| **Row 6** | _ | _ | _ | _ | _ | _ |
+| **Row 7** | _ | _ | _ | _ | _ | _ |
 
 > [!abstract]+ 🎒 Slot rules — quick reference
 > - 🪙 **Small** items stack 4 per slot (torches, arrows, daggers, rations)
@@ -164,9 +155,6 @@
 ## 📖 Spell Book
 
 ```
-   ┌───────────────────────────────────────────┐
-   │ ░▒▓ ✦ ✦ ✦  𝓐𝓻𝓬𝓪𝓷𝓮  𝓒𝓸𝓶𝓹𝓮𝓷𝓭𝓲𝓾𝓶  ✦ ✦ ✦ ▓▒░ │
-   └───────────────────────────────────────────┘
    ━━━━━━━━━━ ✦ ━ Memory & Whisper ━ ✦ ━━━━━━━━━━
 ```
 
@@ -243,7 +231,7 @@
 > - 💬 _Rumour 5:_ 
 
 🐴 **Pack Animal:**  
-[[Mule\|Mule]] — _Lord Elgatio, Conqueror of Arden and Hero of Vul._ Carries the heavy gear; mules are the only draft animal that will descend into a [[Dungeon\|Dungeon]]. Full load on the [[Maximilian — Inventory\|inventory sheet]].
+[[Lord Elgatio\|Lord Elgatio]] — _Conqueror of Arden and Hero of Vul._ A [[Mule\|Mule]] carrying the heavy gear; mules are the only draft animal that will descend into a [[Dungeon\|Dungeon]]. Full inventory on the [[Lord Elgatio\|Lord Elgatio]] sheet.
 
 ---
 
@@ -255,18 +243,16 @@
 
 - 🎭 **Owner:** [[William\|William]] — the player at the table
 - 📜 **Inventory:** [[Maximilian — Inventory\|Maximilian — Inventory]] — full standalone sheet
-- 🐴 **Pack Animal:** [[Mule\|Mule]] _(Lord Elgatio, Conqueror of Arden and Hero of Vul)_
+- 🐴 **Pack Animal:** [[Lord Elgatio\|Lord Elgatio]] _(Conqueror of Arden and Hero of Vul)_
 - 🏛️ **Collegium:** [[The Imperial Academy\|The Imperial Academy]]
 - 🛠️ [[Modified Character Creation\|Modified Character Creation]] — how this character was generated
-- 🎒 [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] — inventory rules
+- 🎒 [[Slot-Based Inventory\|Slot-Based Inventory]] — inventory rules
 - 🪄 [[Spellcasting\|Spellcasting]] — caster rules
 - 🎲 [[Saving Throw\|Saving Throw]]
 - ⚔️ [[Magic-User\|Magic-User]]  ⚜  🌿 [[Elf\|Elf]]  ⚜  ⚖️ [[True Neutral\|True Neutral]]
 
 ```
    ╔══════════════════════════════════════════════════════════════════╗
-   ║                                                                  ║
    ║       ☠  May your blade stay sharp and your torches lit  ☠      ║
-   ║                                                                  ║
    ╚══════════════════════════════════════════════════════════════════╝
 ```

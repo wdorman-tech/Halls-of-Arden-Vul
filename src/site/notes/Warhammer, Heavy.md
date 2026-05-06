@@ -14,7 +14,7 @@
 - **Damage Type:** Blunt
 - **Weight:** 5 lb
 - **Cost:** 1 gp
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

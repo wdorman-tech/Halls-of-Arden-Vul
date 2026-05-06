@@ -19,7 +19,7 @@
 
 ## 📜 Notes
 
-A blank slot-based inventory grid for use with the [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] houserule. Each row of six slots unlocks at the [[Strength\|Strength]] score listed. Items placed in rows above your STR threshold incur encumbrance penalties (see below).
+A blank slot-based inventory grid for use with the [[Slot-Based Inventory\|Slot-Based Inventory]] houserule. The grid is purely organisational — there are no carry-weight penalties.
 
 🖨️ This is a printable / fillable sheet — duplicate it and rename for each character, or use the inline grid in [[Templates/Player Template\|Player Template]].
 
@@ -37,34 +37,15 @@ A blank slot-based inventory grid for use with the [[Slot-Based Encumbrance\|Slo
         ╚═══╩═══╩═══╩═══╩═══╩═══╝
 ```
 
-| 💪 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
+| 🎒 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
 |---|---|---|---|---|---|---|
-| **STR 3** | _ | _ | _ | _ | _ | _ |
-| **STR 6** | _ | _ | _ | _ | _ | _ |
-| **STR 9** | _ | _ | _ | _ | _ | _ |
-| **STR 12** | _ | _ | _ | _ | _ | _ |
-| **STR 15** | _ | _ | _ | _ | _ | _ |
-| **STR 18** | _ | _ | _ | _ | _ | _ |
-| **STR 19** | _ | _ | _ | _ | _ | _ |
-
----
-
-## ⚖️ Encumbrance Penalties
-
-```
-   ━━━━━━━━━━━━━━ ✦ ━ The Weight of Greed ━ ✦ ━━━━━━━━━━━━━━
-```
-
-> [!warning] 🪨 You can place items in any row, but rows above your [[Strength\|Strength]] threshold cost you dearly.
-
-| 📦 Rows beyond Strength | 💀 Effect |
-|---|---|
-| 🟡 **1** | 🐢 Movement reduced to ¾ base |
-| 🟠 **2** | 🐌 Movement halved; no surprise bonuses |
-| 🔴 **3** | 🪦 Movement to ¼; no surprise bonuses; -1 to surprise |
-| ⚫ **4** | ⛓️ Cannot move; no surprise bonuses; -2 to surprise |
-
-> [!tip] 🦉 *"Greed is the dungeon's slowest predator — and its most reliable."*
+| **Row 1** | _ | _ | _ | _ | _ | _ |
+| **Row 2** | _ | _ | _ | _ | _ | _ |
+| **Row 3** | _ | _ | _ | _ | _ | _ |
+| **Row 4** | _ | _ | _ | _ | _ | _ |
+| **Row 5** | _ | _ | _ | _ | _ | _ |
+| **Row 6** | _ | _ | _ | _ | _ | _ |
+| **Row 7** | _ | _ | _ | _ | _ | _ |
 
 ---
 
@@ -128,7 +109,7 @@ A blank slot-based inventory grid for use with the [[Slot-Based Encumbrance\|Slo
 | 🛍️ [[Sack\|Sack]] | 4 *(2×2)* or 9 *(3×3)* | Bulk goods |
 | 📜 [[Scroll Case\|Scroll Case]] | 1 | Up to 3 scrolls |
 
-> [!tip] 🎒 A container's encompassed slots can extend past your STR threshold — the container itself is **not** affected by your row limit, but the items inside it still count toward your encumbrance row count.
+> [!tip] 🎒 Containers themselves don't take a slot — they encompass a region of the grid, and items go into those encompassed slots.
 
 ---
 
@@ -173,8 +154,7 @@ A blank slot-based inventory grid for use with the [[Slot-Based Encumbrance\|Slo
    ━━━━━━━━━━━━━━━━ ✦ ━ ⚜ ━ ✦ ━━━━━━━━━━━━━━━━
 ```
 
-- 🎒 [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] — full ruleset
-- 💪 [[Strength\|Strength]] — gates rows
+- 🎒 [[Slot-Based Inventory\|Slot-Based Inventory]] — full ruleset
 - 🪪 [[Templates/Player Template\|Player Template]] — full character sheet that embeds this grid
 - ⚔️ [[Equipment\|Equipment]] — gear list
 

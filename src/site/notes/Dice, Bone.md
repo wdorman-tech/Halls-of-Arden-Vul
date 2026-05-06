@@ -7,7 +7,7 @@
 
 - **Cost:** 3 cp per pair
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

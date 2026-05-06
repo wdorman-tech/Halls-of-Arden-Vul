@@ -9,7 +9,7 @@
 - **Movement Cap:** none
 - **Weight:** -- (worn)
 - **Cost:** 10 gp (if purchased separately)
-- **Encumbrance Slots (Player Doc):** 0 worn / 1 carried
+- **Inventory Slots:** 0 worn / 1 carried
 
 ## Notes
 

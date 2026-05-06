@@ -14,7 +14,7 @@
 - **Damage Type:** Blunt or Piercing (wielder's choice)
 - **Weight:** 4 lb
 - **Cost:** 4 gp
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

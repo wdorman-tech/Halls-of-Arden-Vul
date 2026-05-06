@@ -7,7 +7,7 @@
 
 - **Cost:** 2 gp per dozen
 - **Weight:** 2 lb per dozen
-- **Encumbrance Slots:** 1 per [[Quiver\|Quiver]]
+- **Inventory Slots:** 1 per [[Quiver\|Quiver]]
 
 ## Notes
 

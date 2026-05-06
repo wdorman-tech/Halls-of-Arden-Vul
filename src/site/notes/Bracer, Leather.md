@@ -7,7 +7,7 @@
 
 - **Cost:** 1 cp
 - **Weight:** 0 (worn) / 0.1 lb (carried)
-- **Encumbrance Slots:** 0 (worn)
+- **Inventory Slots:** 0 (worn)
 
 ## Notes
 

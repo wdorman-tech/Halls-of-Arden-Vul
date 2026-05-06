@@ -7,7 +7,7 @@
 
 - **Cost:** 3 gp
 - **Weight:** 15 lb
-- **Encumbrance Slots:** 3 (very large item — Player Doc lists "cooking pot" as 3 slots)
+- **Inventory Slots:** 3 (very large item — Player Doc lists "cooking pot" as 3 slots)
 
 ## Notes
 

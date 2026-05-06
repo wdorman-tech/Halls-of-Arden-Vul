@@ -7,7 +7,7 @@
 
 - **Cost:** 1 cp per day's worth
 - **Weight:** 3 lb per day
-- **Encumbrance Slots:** 1 per day
+- **Inventory Slots:** 1 per day
 
 ## Notes
 

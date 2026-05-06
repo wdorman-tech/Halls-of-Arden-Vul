@@ -5,7 +5,7 @@
 
 ## All Armour
 
-Every piece of armour in the vault. Armour interacts with [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] — heavier armour takes more grid slots and reduces movement.
+Every piece of armour in the vault. Armour interacts with [[Slot-Based Inventory\|Slot-Based Inventory]] — heavier armour takes more grid slots and reduces movement.
 
 ### Armour
 

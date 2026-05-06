@@ -7,7 +7,7 @@
 
 - **Cost:** 1 sp
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

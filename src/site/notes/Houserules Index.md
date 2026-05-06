@@ -7,9 +7,10 @@
 
 Every modification the GM has made to the base [[OSRIC\|OSRIC]] rules. Houserules are sourced from [[The Halls of Arden Vul Player Doc\|The Halls of Arden Vul Player Doc]] and may evolve as the campaign progresses.
 
-## Encumbrance
+## Inventory
 
-- [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] — replaces OSRIC's pound-based weight tracking with a slot grid keyed off [[Strength\|Strength]]. Six slots per row; rows beyond your STR threshold cause movement and surprise penalties.
+- **No carry-weight system.** OSRIC's pound-based encumbrance is not used; carrying capacity is not tracked, and there are no movement or surprise penalties from carried items. Item weights in pounds are kept on equipment notes as a descriptive property only.
+- [[Slot-Based Inventory\|Slot-Based Inventory]] — items are placed on a slot grid as an organisational aid. Pack animals (e.g., [[Mule\|Mule]]) get their own grids (mules: 6 × 4 = 24 slots).
 - Container effects: [[Backpack\|Backpack]], [[Quiver\|Quiver]], [[Flask\|Flask]], [[Writing Satchel\|Writing Satchel]], [[Pouch\|Pouch]], [[Sack\|Sack]], [[Scroll Case\|Scroll Case]] each have their own slot-encompassing rules.
 
 ## Character Creation

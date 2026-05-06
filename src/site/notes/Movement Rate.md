@@ -9,7 +9,7 @@ A character's **movement rate** is the distance they can move during whatever ti
 
 The Movement Rate number on a character sheet is the distance the character can move in combat during a single one-minute round. **It is also the distance the character can travel during a 10-minute turn of exploration in an underground area** (i.e. cautious exploring speed is the full MR per turn, not per round).
 
-A character has a [[Base Movement Rate\|Base Movement Rate]] (from ancestry) which is adjusted by [[Encumbrance\|Encumbrance]] and armour movement caps to give the actual movement rate.
+A character has a [[Base Movement Rate\|Base Movement Rate]] (from ancestry) which is adjusted by [[Slot-Based Inventory\|Slot-Based Inventory]] and armour movement caps to give the actual movement rate.
 
 ## Key Facts
 
@@ -28,5 +28,5 @@ A character has a [[Base Movement Rate\|Base Movement Rate]] (from ancestry) whi
 - [[Base Movement Rate\|Base Movement Rate]]
 - [[Outdoor Movement\|Outdoor Movement]]
 - [[Forced March\|Forced March]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]
 - [[Combat Round\|Combat Round]]

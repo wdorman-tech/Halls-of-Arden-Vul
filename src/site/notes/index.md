@@ -68,7 +68,7 @@ Pick a category to see every note inside it. Each page lists its members alphabe
 ### Rules & Play
 
 - 📖 [[All Houserules\|All Houserules]] — every campaign-specific modification
-- 🎲 [[All Mechanics\|All Mechanics]] — saving throws, encumbrance, combat, advancement
+- 🎲 [[All Mechanics\|All Mechanics]] — saving throws, combat, advancement
 - 💀 [[All Conditions\|All Conditions]] — status conditions
 - 📚 [[All Concepts\|All Concepts]] — glossary of game terminology
 
@@ -82,7 +82,7 @@ Pick a category to see every note inside it. Each page lists its members alphabe
 
 - 📝 [[Templates/Player Template\|Player Template]] — full OSRIC character sheet template (page-12 layout) with embedded inventory grid + spell book
 - 🪪 [[Templates/Player Profile Template\|Player Profile Template]] — real-world player profile (custom notes + linked characters)
-- 🎒 [[Templates/Inventory Sheet Blank\|Inventory Sheet Blank]] — standalone slot-based inventory grid with [[Strength\|Strength]] row gating
+- 🎒 [[Templates/Inventory Sheet Blank\|Inventory Sheet Blank]] — standalone slot-based inventory grid
 - 📜 [[Houserules Index\|Houserules Index]] — curated houserule overview with rationale
 
 ---
@@ -93,7 +93,7 @@ Pick a category to see every note inside it. Each page lists its members alphabe
 2. **Select an [[Ancestry\|Ancestry]]** — [[Human\|Human]] (with [[Culture\|Culture]]), [[Dwarf\|Dwarf]], [[Elf\|Elf]], [[Half-Elf\|Half-Elf]], [[Halfling\|Halfling]], [[Half-Orc\|Half-Orc]], or [[Imperial Goblin\|Imperial Goblin]] (replaces [[Gnome\|Gnome]]).
 3. **Pick a [[Class\|Class]]** — [[Assassin\|Assassin]], [[Cleric\|Cleric]], [[Druid\|Druid]], [[Fighter\|Fighter]], [[Illusionist\|Illusionist]], [[Magic-User\|Magic-User]], [[Monk\|Monk]], [[Paladin\|Paladin]], [[Ranger\|Ranger]], or [[Thief\|Thief]]. (No [[Multi-Classing\|Multi-Classing]] or [[Dual-Classing\|Dual-Classing]] at start.)
 4. **Select [[Alignment\|Alignment]]** — nine alignments. ([[Cleric\|Cleric]] must match deity alignment.)
-5. **Roll starting funds** and buy [[Equipment\|Equipment]]. Track via [[Slot-Based Encumbrance\|Slot-Based Encumbrance]].
+5. **Roll starting funds** and buy [[Equipment\|Equipment]]. Track via [[Slot-Based Inventory\|Slot-Based Inventory]].
 6. **Magic-Users:** pick one of the [[Seven Collegia\|Seven Collegia]]; you start with [[Read Magic\|Read Magic]] + 2 random + 2 chosen spells.
 7. **Clerics:** pick a deity from [[The Ten\|The Ten]] or [[The Seventeen\|The Seventeen]].
 8. **Starting rumours:** roll 1d3 [[Adventuring Rumour\|Adventuring Rumour]] + 1d2 [[Historical Rumour\|Historical Rumour]].

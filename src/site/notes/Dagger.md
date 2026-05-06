@@ -16,7 +16,7 @@
 - **Rate of Fire:** 2 per round (when thrown)
 - **Weight:** 1 lb
 - **Cost:** 2 gp
-- **Encumbrance Slots:** 1 (often 0 for very small carry; usually 1 for tracking purposes)
+- **Inventory Slots:** 1 (often 0 for very small carry; usually 1 for tracking purposes)
 
 ## Notes
 

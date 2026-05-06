@@ -7,7 +7,7 @@
 
 - **Cost:** 3 sp
 - **Weight:** N/A
-- **Encumbrance Slots:** N/A (vehicle)
+- **Inventory Slots:** N/A (vehicle)
 
 ## Notes
 

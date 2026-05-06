@@ -16,7 +16,7 @@ OSRIC is a tactical, lethal old-school system: characters are fragile at low lev
 - **Lineage:** AD&D 1st Edition retro-clone
 - **Cost:** Free (pay-what-you-want, $0 download available)
 - **Source:** [[References/OSRIC 3.0 Player Guide\|OSRIC 3.0 Player Guide]]
-- **Houserules in this campaign:** [[Slot-Based Encumbrance\|Slot-Based Encumbrance]], [[Modified Character Creation\|Modified Character Creation]], [[Ancestry Houserules\|Ancestry Houserules]], [[Class Houserules\|Class Houserules]], [[Modified XP and Leveling\|Modified XP and Leveling]]
+- **Houserules in this campaign:** [[Slot-Based Inventory\|Slot-Based Inventory]], [[Modified Character Creation\|Modified Character Creation]], [[Ancestry Houserules\|Ancestry Houserules]], [[Class Houserules\|Class Houserules]], [[Modified XP and Leveling\|Modified XP and Leveling]]
 
 ## Related
 

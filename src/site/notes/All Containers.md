@@ -5,7 +5,7 @@
 
 ## All Containers
 
-Every container in the vault. Containers don't take inventory slots themselves — they encompass slots that other items go into. See [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] for the full ruleset.
+Every container in the vault. Containers don't take inventory slots themselves — they encompass slots that other items go into. See [[Slot-Based Inventory\|Slot-Based Inventory]] for the full ruleset.
 
 ### Containers
 

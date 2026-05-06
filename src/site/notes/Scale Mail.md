@@ -9,7 +9,7 @@
 - **Movement Cap:** 60ft
 - **Weight:** 40 lb
 - **Cost:** 45 gp
-- **Encumbrance Slots (Player Doc):** 9 in 3x3
+- **Inventory Slots:** 9 in 3x3
 
 ## Allowed for
 

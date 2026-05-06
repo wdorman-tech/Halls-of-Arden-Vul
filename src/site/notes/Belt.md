@@ -7,7 +7,7 @@
 
 - **Cost:** 1 gp
 - **Weight:** -- (worn)
-- **Encumbrance Slots:** 0 (worn)
+- **Inventory Slots:** 0 (worn)
 
 ## Notes
 

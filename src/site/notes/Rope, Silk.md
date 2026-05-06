@@ -7,7 +7,7 @@
 
 - **Cost:** 10 gp per 50 ft
 - **Weight:** 5 lb per 50 ft
-- **Encumbrance Slots:** 1 per coil
+- **Inventory Slots:** 1 per coil
 
 ## Notes
 

@@ -7,7 +7,7 @@
 
 - **Cost:** 6 sp
 - **Weight:** 0 (worn) / 0.5 lb (carried)
-- **Encumbrance Slots:** 0 (worn)
+- **Inventory Slots:** 0 (worn)
 
 ## Notes
 

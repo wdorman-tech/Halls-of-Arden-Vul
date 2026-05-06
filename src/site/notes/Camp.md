@@ -20,7 +20,7 @@ The party may **camp** in the dungeon for a "night" to recover spells, or in the
 - Step 6 of the [[Outdoor Adventure\|Outdoor Adventure]] sequence: GM presents campsite options, party camps
 - Step 7: wandering monster check at camp
 - Weather, terrain, and visibility affect available options
-- Watches should be set; encumbered/tired parties may suffer if disrupted
+- Watches should be set; tired parties may suffer if disrupted
 
 ## Related
 

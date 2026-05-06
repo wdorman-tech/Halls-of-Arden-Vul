@@ -14,7 +14,7 @@
 - **Damage Type:** Piercing
 - **Weight:** 10 lb
 - **Cost:** 7 gp
-- **Encumbrance Slots:** 2 (large item)
+- **Inventory Slots:** 2 (large item)
 
 ## Notes
 

@@ -16,7 +16,7 @@
 - **Rate of Fire:** 1 per round (when thrown)
 - **Weight:** 3 lb
 - **Cost:** 2 cp or found
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

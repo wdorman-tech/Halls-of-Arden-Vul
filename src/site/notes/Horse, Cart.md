@@ -6,8 +6,6 @@
 ## Stats
 
 - **Cost:** 25 gp
-- **Encumbered Weight:** 400 lbs
-- **Maximum Weight:** 800 lbs
 
 ## Notes
 

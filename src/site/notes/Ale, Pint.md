@@ -7,7 +7,7 @@
 
 - **Cost:** 2 sp
 - **Weight:** 1 lb
-- **Encumbrance Slots:** 0 (consumed at the table)
+- **Inventory Slots:** 0 (consumed at the table)
 
 ## Notes
 

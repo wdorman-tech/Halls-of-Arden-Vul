@@ -20,7 +20,6 @@ A **lance** wielded by an attacker on a **warhorse** or other combat-trained mou
 - **Set against charge:** doubles the defender's damage on a hit
 - **Lance + warhorse:** doubles weapon damage roll (strength/magic bonuses NOT doubled)
 - **Frequency:** once per 10 rounds (i.e. once per turn)
-- **Encumbrance:** maximum-encumbered characters cannot charge unless mounted on a non-max-encumbered mount
 - **Attack must be:** melee, hurled weapon, or unarmed
 
 ## Related

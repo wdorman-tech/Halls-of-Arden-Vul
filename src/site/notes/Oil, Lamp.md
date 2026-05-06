@@ -7,7 +7,7 @@
 
 - **Cost:** 1 sp per pint
 - **Weight:** 1 lb per pint
-- **Encumbrance Slots:** 1 per pint
+- **Inventory Slots:** 1 per pint
 
 ## Notes
 

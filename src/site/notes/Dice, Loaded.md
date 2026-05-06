@@ -7,7 +7,7 @@
 
 - **Cost:** 3 gp per pair
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

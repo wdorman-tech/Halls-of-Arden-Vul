@@ -16,7 +16,7 @@
 - **Rate of Fire:** 1 per round (when thrown)
 - **Weight:** 5 lb
 - **Cost:** 1 gp
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

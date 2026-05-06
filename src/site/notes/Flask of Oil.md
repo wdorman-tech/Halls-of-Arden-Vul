@@ -7,7 +7,7 @@
 
 - **Cost:** 1 sp per pint flask
 - **Weight:** 1 lb per pint
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

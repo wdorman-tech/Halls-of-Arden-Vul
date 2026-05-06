@@ -7,7 +7,7 @@
 
 - **Cost:** 1 gp per dozen
 - **Weight:** 5 lb per dozen
-- **Encumbrance Slots:** 1 per dozen
+- **Inventory Slots:** 1 per dozen
 
 ## Notes
 

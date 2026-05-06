@@ -10,7 +10,7 @@
 | Bone scrollcase | 4 gp | 0.5 lb |
 | Leather scrollcase | 1 gp | 0.5 lb |
 
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

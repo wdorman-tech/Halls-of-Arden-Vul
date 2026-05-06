@@ -14,7 +14,7 @@
 - **Damage Type:** Blunt, Piercing, or Slashing (wielder's choice based on weapon head)
 - **Weight:** 8 lb
 - **Cost:** 7 gp
-- **Encumbrance Slots:** 2 (large item)
+- **Inventory Slots:** 2 (large item)
 
 ## Notes
 

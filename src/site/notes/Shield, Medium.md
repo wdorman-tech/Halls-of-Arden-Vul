@@ -9,7 +9,7 @@
 - **Movement Cap:** none
 - **Weight:** 8 lb
 - **Cost:** 12 gp
-- **Encumbrance Slots (Player Doc):** 2 (large item)
+- **Inventory Slots:** 2 (large item)
 
 ## Notes
 

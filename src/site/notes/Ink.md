@@ -7,7 +7,7 @@
 
 - **Cost:** ~8 gp per vial (varies)
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

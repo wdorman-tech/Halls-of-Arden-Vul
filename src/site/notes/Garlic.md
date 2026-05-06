@@ -7,7 +7,7 @@
 
 - **Cost:** typically 5 sp per bulb
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

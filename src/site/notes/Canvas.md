@@ -7,7 +7,7 @@
 
 - **Cost:** 1 sp per square yard
 - **Weight:** 1 lb per square yard
-- **Encumbrance Slots:** 1 per few square yards
+- **Inventory Slots:** 1 per few square yards
 
 ## Notes
 

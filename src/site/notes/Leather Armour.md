@@ -9,7 +9,7 @@
 - **Movement Cap:** 120ft (no reduction)
 - **Weight:** 15 lb
 - **Cost:** 5 gp
-- **Encumbrance Slots (Player Doc):** 4 in 2x2
+- **Inventory Slots:** 4 in 2x2
 
 ## Allowed for
 
@@ -29,5 +29,5 @@ The lightest "real" armour. Usable by thieves while still maintaining most thief
 - [[Padded Armour\|Padded Armour]]
 - [[Elfin Mail\|Elfin Mail]]
 - [[Armour Class\|Armour Class]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]
 - [[Thief\|Thief]]

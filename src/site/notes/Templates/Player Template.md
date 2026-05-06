@@ -1,16 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/templates/player-template/","dg-note-properties":{"aliases":[null],"categories":["[[character]]","[[arden-vul]]"],"owner":null,"character_name":null,"inventory_sheet":null,"class":null,"ancestry":null,"alignment":null,"level":1,"xp":0,"age":null,"height":null,"weight":null,"gender":null,"hp_current":null,"hp_max":null,"ac":10,"movement_rate":120,"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"created":{"{ date:MM-DD-YYYY HH:mm }":null}}}
+{"dg-publish":true,"permalink":"/templates/player-template/","dg-note-properties":{"aliases":[null],"categories":["[[character]]","[[arden-vul]]"],"owner":null,"character_name":null,"inventory_sheet":null,"class":null,"ancestry":null,"alignment":null,"created":{"{ date:MM-DD-YYYY HH:mm }":null}}}
 ---
 
 
 ```
    ╔══════════════════════════════════════════════════════════════════╗
-   ║  ⚔️  ✦  ⚜  ✦  ⚔️                                       ⚔️  ✦  ⚜  ✦  ⚔️  ║
-   ║                                                                  ║
    ║          𝕿𝖍𝖊 𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊 𝖔𝖋 𝖆 𝕯𝖚𝖓𝖌𝖊𝖔𝖓𝖊𝖊𝖗            ║
    ║              ✦ Halls of Arden Vul ✦                              ║
-   ║                                                                  ║
-   ║  ⚔️  ✦  ⚜  ✦  ⚔️                                       ⚔️  ✦  ⚜  ✦  ⚔️  ║
    ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -19,7 +15,11 @@
 > *Few return. Fewer return whole. None return unchanged."*
 
 ---
+# FILL THIS OUT WITH PLAIN ENGLISH, JUST TYPE OUT ANSWERS TO QUESTIONS.
 
+#### EX: my age is 173, my height is 5'9", I weigh 200lb, etc etc.
+
+Send that to William and he will upload your character to the wiki
 ## ⚔️ Character
 
 ```
@@ -56,7 +56,7 @@
 
 | ✦ | Score | Value | Modifiers / Tracked Values |
 |---|---|---|---|
-| 💪 | **[[Strength\|STR]]** | _ | To Hit: _ • Damage: _ • Encumbrance: _ • Minor Test: _ • Major Test: _ |
+| 💪 | **[[Strength\|STR]]** | _ | To Hit: _ • Damage: _ • Minor Test: _ • Major Test: _ |
 | 🤸 | **[[Dexterity\|DEX]]** | _ | Surprise: _ • Missile To Hit: _ • AC Bonus: _ • Agility Save Bonus: _ • Missile Initiative Bonus: _ |
 | 🧱 | **[[Constitution\|CON]]** | _ | HP Bonus: _ • Resurrection Success: _ • System Shock: _ |
 | 🧠 | **[[Intelligence\|INT]]** | _ | Add'l Languages: _ |
@@ -82,15 +82,10 @@
 ## ⚔️ Weapons & Armour
 
 ```
-       ╲
-        ╲  ╲
-        │═══╪══════════════════════════════════>
-        ╱  ╱
-       ╱
    ━━━━━━━━━━━━━━ ✦ ━ Iron & Edge ━ ✦ ━━━━━━━━━━━━━━
 ```
 
-| 🗡️ Weapon | 🩸 vs S-M | 🩸 vs L | 📐 Length | 🏹 RoF | 🎯 Range (-2/inc) | ⏱️ Speed | ✋ Space | 🎒 Encum. |
+| 🗡️ Weapon | 🩸 vs S-M | 🩸 vs L | 📐 Length | 🏹 RoF | 🎯 Range (-2/inc) | ⏱️ Speed | ✋ Space | 🎒 Slots |
 |---|---|---|---|---|---|---|---|---|
 | _e.g. [[Long Sword\|Long Sword]]_ | 1d8 | 1d12 | 3.5' | — | — | 5 | 1H | 1 |
 |  |  |  |  |  |  |  |  |  |
@@ -129,17 +124,17 @@
 
 📜 **Detailed inventory sheet:** [[Character Name — Inventory\|Character Name — Inventory]] *(rename to match — duplicate [[Templates/Inventory Sheet Blank\|Inventory Sheet Blank]] for the full standalone version)*
 
-> 📖 See [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] for the full rules. Each row of 6 unlocks at the listed [[Strength\|Strength]] score; carrying past your row threshold inflicts encumbrance penalties.
+> 📖 See [[Slot-Based Inventory\|Slot-Based Inventory]] for the full rules. The grid is purely organisational — items get placed in slots so the GM and player can see what's carried at a glance.
 
-| 💪 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
+| 🎒 Row | 1️⃣ | 2️⃣ | 3️⃣ | 4️⃣ | 5️⃣ | 6️⃣ |
 |---|---|---|---|---|---|---|
-| **STR 3** | _ | _ | _ | _ | _ | _ |
-| **STR 6** | _ | _ | _ | _ | _ | _ |
-| **STR 9** | _ | _ | _ | _ | _ | _ |
-| **STR 12** | _ | _ | _ | _ | _ | _ |
-| **STR 15** | _ | _ | _ | _ | _ | _ |
-| **STR 18** | _ | _ | _ | _ | _ | _ |
-| **STR 19** | _ | _ | _ | _ | _ | _ |
+| **Row 1** | _ | _ | _ | _ | _ | _ |
+| **Row 2** | _ | _ | _ | _ | _ | _ |
+| **Row 3** | _ | _ | _ | _ | _ | _ |
+| **Row 4** | _ | _ | _ | _ | _ | _ |
+| **Row 5** | _ | _ | _ | _ | _ | _ |
+| **Row 6** | _ | _ | _ | _ | _ | _ |
+| **Row 7** | _ | _ | _ | _ | _ | _ |
 
 > [!abstract]+ 🎒 Slot rules — quick reference
 > - 🪙 **Small** items stack 4 per slot (torches, arrows, daggers, rations)
@@ -161,9 +156,6 @@
 ## 📖 Spell Book
 
 ```
-   ┌───────────────────────────────────────────┐
-   │ ░▒▓ ✦ ✦ ✦  𝓐𝓻𝓬𝓪𝓷𝓮  𝓒𝓸𝓶𝓹𝓮𝓷𝓭𝓲𝓾𝓶  ✦ ✦ ✦ ▓▒░ │
-   └───────────────────────────────────────────┘
    ━━━━━━━━━━ ✦ ━ Memory & Whisper ━ ✦ ━━━━━━━━━━
 ```
 
@@ -232,15 +224,13 @@ Editable list of spells the character has memorised or recorded. Each row links 
 - 🎭 **Owner:** [[Player Name\|Player Name]] — the real-world player at the table
 - 📜 **Inventory:** [[Character Name — Inventory\|Character Name — Inventory]] — full standalone sheet
 - 🛠️ [[Modified Character Creation\|Modified Character Creation]] — how this character was generated
-- 🎒 [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] — inventory rules
+- 🎒 [[Slot-Based Inventory\|Slot-Based Inventory]] — inventory rules
 - 🪄 [[Spellcasting\|Spellcasting]] — for casters
 - 🎲 [[Saving Throw\|Saving Throw]]
 - ⚔️ [[Class\|Class]]  ⚜  🌿 [[Ancestry\|Ancestry]]  ⚜  ⚖️ [[Alignment\|Alignment]]
 
 ```
    ╔══════════════════════════════════════════════════════════════════╗
-   ║                                                                  ║
    ║       ☠  May your blade stay sharp and your torches lit  ☠      ║
-   ║                                                                  ║
    ╚══════════════════════════════════════════════════════════════════╝
 ```

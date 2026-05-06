@@ -7,7 +7,7 @@
 
 - **Cost:** 25 gp per vial
 - **Weight:** 0.5 lb
-- **Encumbrance Slots:** 1 per vial
+- **Inventory Slots:** 1 per vial
 
 ## Notes
 

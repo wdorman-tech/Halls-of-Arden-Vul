@@ -13,7 +13,8 @@ The OSRIC 3.0 Player Guide is the rulebook for the campaign. It is a faithful re
 - **Edition:** 3.0
 - **Source:** <iframe src="/img/user/OSRIC_3.0_Player_Guide.pdf" width="100%" height="900px" title="OSRIC_3.0_Player_Guide.pdf" style="border:1px solid #ccc;"></iframe>
 - **Pages:** 264
-- **Coverage:** Character creation (ability scores, ancestries, classes, alignment), combat, magic, equipment, encumbrance, advancement, NPC reactions, hireling rules
+- **Coverage:** Character creation (ability scores, ancestries, classes, alignment), combat, magic, equipment, advancement, NPC reactions, hireling rules
+- **Houserule:** OSRIC's encumbrance system is **not used** in this campaign — see [[Houserules Index\|Houserules Index]] and [[Slot-Based Inventory\|Slot-Based Inventory]].
 - **Cost:** Free / pay-what-you-want
 - **License:** Open Game License
 

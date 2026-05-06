@@ -7,7 +7,7 @@
 
 - **Cost:** typically 10 gp per sprig
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

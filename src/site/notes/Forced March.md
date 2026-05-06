@@ -12,7 +12,7 @@ A **forced march** allows a party to move at up to **twice** the normal hiking s
 - **Speed:** up to 2x normal hiking
 - **Exhaustion check:** % chance equals the % speed increase, checked once for the group
 - **After exhaustion (without rest):** severe consequences
-  - **Horses/mules:** 10% chance of dying from exhaustion unless allowed to walk unencumbered
+  - **Horses/mules:** 10% chance of dying from exhaustion unless allowed to walk freely without a load
   - **Monsters and characters:** effectively lose a [[Level\|Level]] (or [[Hit Die\|Hit Die]] for monsters) until they have rested
   - **Below 0 levels/HD:** **death**
 - **Recovery:** one full day of rest restores normal status

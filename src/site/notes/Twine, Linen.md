@@ -7,7 +7,7 @@
 
 - **Cost:** 10 cp per 100 ft
 - **Weight:** 0.5 lb per 100 ft
-- **Encumbrance Slots:** 0 or 1
+- **Inventory Slots:** 0 or 1
 
 ## Notes
 

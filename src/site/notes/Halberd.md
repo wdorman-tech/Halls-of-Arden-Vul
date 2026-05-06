@@ -14,7 +14,7 @@
 - **Damage Type:** Piercing or Slashing (wielder's choice)
 - **Weight:** 15 lb
 - **Cost:** 9 gp
-- **Encumbrance Slots:** 2 (large item)
+- **Inventory Slots:** 2 (large item)
 
 ## Notes
 

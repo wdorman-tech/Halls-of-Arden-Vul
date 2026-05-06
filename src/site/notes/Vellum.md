@@ -7,7 +7,7 @@
 
 - **Cost:** 8 cp per sheet
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0
+- **Inventory Slots:** 0
 
 ## Notes
 

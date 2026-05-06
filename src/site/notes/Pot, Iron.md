@@ -7,7 +7,7 @@
 
 - **Cost:** 5 sp
 - **Weight:** 5 lb
-- **Encumbrance Slots:** 3 (very large item per Player Doc — "cooking pot" listed as 3 slots)
+- **Inventory Slots:** 3 (very large item per Player Doc — "cooking pot" listed as 3 slots)
 
 ## Notes
 

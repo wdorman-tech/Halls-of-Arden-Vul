@@ -8,7 +8,7 @@
 - **Capacity:** [[Spellbook\|Spellbook]] and parchment
 - **Weight:** 0 (worn) / 1 lb empty
 - **Cost:** ~2 gp (similar to backpack)
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

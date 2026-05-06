@@ -44,12 +44,12 @@ Equipment is the gear adventurers carry to brave the perils of dungeons and wild
 
 The purchase price of any weapon includes a scabbard, strap, hanger, or other means of carrying it. All purchased armour comes with a [[Helmet\|Helmet]] included in the price.
 
-Cost is deducted from your character's [[Money\|Money]] when equipment is purchased. Weight is used when calculating [[Encumbrance\|Encumbrance]], which can affect adjusted [[Movement Rate\|Movement Rate]].
+Cost is deducted from your character's [[Money\|Money]] when equipment is purchased. Items are tracked on the slot grid — see [[Slot-Based Inventory\|Slot-Based Inventory]]. Item weights in pounds are kept as a descriptive property only and do not affect movement.
 
 ## Related
 
 - [[Money\|Money]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]
 - [[Armour Class\|Armour Class]]
 - [[Weapon Speed Factor\|Weapon Speed Factor]]
 - [[Weapon Proficiency\|Weapon Proficiency]]

@@ -14,7 +14,7 @@
 - **Rate of Fire:** 
 - **Weight:** 
 - **Cost:** 
-- **Encumbrance Slots:** 
+- **Inventory Slots:** 
 
 ## Notes
 

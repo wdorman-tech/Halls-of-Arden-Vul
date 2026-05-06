@@ -7,7 +7,7 @@
 
 - **Cost:** 2 gp
 - **Weight:** 0 (worn) / 5 lb (carried)
-- **Encumbrance Slots:** 0 (worn)
+- **Inventory Slots:** 0 (worn)
 
 ## Notes
 

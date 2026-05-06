@@ -7,7 +7,7 @@
 
 - **Cost:** 10 gp
 - **Weight:** 20 lb
-- **Encumbrance Slots:** 3 (very large item — Player Doc lists "tent" as 3 slots)
+- **Inventory Slots:** 3 (very large item — Player Doc lists "tent" as 3 slots)
 
 ## Notes
 
@@ -18,4 +18,4 @@ A canvas tent, typically sleeping 2-4. Bulky to transport — usually carried on
 - [[Bedroll\|Bedroll]]
 - [[Canvas\|Canvas]]
 - [[Mule\|Mule]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]

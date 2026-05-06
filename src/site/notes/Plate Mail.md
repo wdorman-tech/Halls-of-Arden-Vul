@@ -9,7 +9,7 @@
 - **Movement Cap:** 60ft
 - **Weight:** 45 lb
 - **Cost:** 400 gp
-- **Encumbrance Slots (Player Doc):** 9 in 3x3
+- **Inventory Slots:** 9 in 3x3
 
 ## Allowed for
 
@@ -24,7 +24,7 @@
 
 The best non-magical armour available. Heavy and movement-restrictive but provides AC 3 [17]. With a +1 magical bonus and a +1 [[Shield, Small\|shield]], a fully kitted fighter can reach AC 0 [20]. All purchased armour comes with a [[Helmet\|Helmet]] included.
 
-Magical [[Plate Mail\|Plate Mail]] doesn't add to your encumbrance while worn, and allows a movement rate cap 30ft faster than normal (up to 120ft maximum).
+Magical [[Plate Mail\|Plate Mail]] allows a movement rate cap 30ft faster than normal (up to 120ft maximum).
 
 ## Related
 
@@ -32,4 +32,4 @@ Magical [[Plate Mail\|Plate Mail]] doesn't add to your encumbrance while worn, a
 - [[Splint Mail\|Splint Mail]]
 - [[Chain Mail\|Chain Mail]]
 - [[Armour Class\|Armour Class]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]

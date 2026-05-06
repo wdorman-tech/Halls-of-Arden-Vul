@@ -7,7 +7,7 @@
 
 - **Cost:** 1 sp each
 - **Weight:** 0.5 lb
-- **Encumbrance Slots:** 0 or 1 per several
+- **Inventory Slots:** 0 or 1 per several
 
 ## Notes
 

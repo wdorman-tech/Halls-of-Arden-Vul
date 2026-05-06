@@ -5,7 +5,7 @@
 
 ## All Mechanics
 
-Every game subsystem and mechanic. Saving throws, encumbrance, combat resolution, advancement, and so on.
+Every game subsystem and mechanic. Saving throws, combat resolution, advancement, and so on.
 
 ### Mechanics
 
@@ -14,7 +14,7 @@ Every game subsystem and mechanic. Saving throws, encumbrance, combat resolution
 [[Combat Modifiers\|Combat Modifiers]] • [[Combat Round\|Combat Round]] • [[Combat Segment\|Combat Segment]]
 [[Concealment\|Concealment]] • [[Cover\|Cover]] • [[Crossbow\|Crossbow]]
 [[Damage\|Damage]] • [[Damage and Death\|Damage and Death]] • [[Disease\|Disease]]
-[[Dungeon Adventure\|Dungeon Adventure]] • [[Encounter Distance\|Encounter Distance]] • [[Encumbrance\|Encumbrance]]
+[[Dungeon Adventure\|Dungeon Adventure]] • [[Encounter Distance\|Encounter Distance]]
 [[Engaged in Melee Combat\|Engaged in Melee Combat]] • [[Experience Points\|Experience Points]] • [[Falling\|Falling]]
 [[Fleeing from Combat\|Fleeing from Combat]] • [[Forced March\|Forced March]] • [[Gaining Levels\|Gaining Levels]]
 [[Grappling\|Grappling]] • [[Hit Die\|Hit Die]] • [[Hit Points\|Hit Points]]

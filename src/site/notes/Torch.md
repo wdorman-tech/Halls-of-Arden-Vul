@@ -7,7 +7,7 @@
 
 - **Cost:** 1 cp each
 - **Weight:** 1 lb
-- **Encumbrance Slots:** 1 (per several)
+- **Inventory Slots:** 1 (per several)
 
 ## Combat (when used as weapon)
 

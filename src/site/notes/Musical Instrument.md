@@ -7,7 +7,7 @@
 
 - **Cost:** 5+ gp (varies by instrument)
 - **Weight:** 1+ lb
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

@@ -22,7 +22,7 @@ Several houserules adjust character creation to make starting characters fragile
 - Magic-Users automatically know **Read Magic** in addition to two random and two of-choice spells.
 - Magic-Users must choose one of the [[Seven Collegia\|Seven Collegia]].
 
-**Equipment:** Same gear list, but encumbrance is by [[Slot-Based Encumbrance\|Slot-Based Encumbrance]].
+**Equipment:** Same gear list. Inventory is tracked on a slot grid — see [[Slot-Based Inventory\|Slot-Based Inventory]].
 
 **Extra (Rumours):** Every starting character gets **1d3 [[Adventuring Rumour\|adventuring rumours]]** and **1d2 [[Historical Rumour\|historical rumours]]**. Each contains at least some truth, but accuracy is not guaranteed. Backup characters and post-start characters do **not** get rumours.
 
@@ -39,6 +39,6 @@ Several houserules adjust character creation to make starting characters fragile
 - [[Ability Score\|Ability Score]]
 - [[Ancestry Houserules\|Ancestry Houserules]]
 - [[Class Houserules\|Class Houserules]]
-- [[Slot-Based Encumbrance\|Slot-Based Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]
 - [[Adventuring Rumour\|Adventuring Rumour]], [[Historical Rumour\|Historical Rumour]]
 - [[The Halls of Arden Vul Player Doc\|The Halls of Arden Vul Player Doc]] — source

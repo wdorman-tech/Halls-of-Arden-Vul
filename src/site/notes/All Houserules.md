@@ -13,7 +13,7 @@ Every campaign-specific modification to the base [[OSRIC\|OSRIC]] ruleset. See [
 [[Class Houserules\|Class Houserules]] • [[Common\|Common]] • [[Connecting (Downtime)\|Connecting (Downtime)]]
 [[Downtime\|Downtime]] • [[Exploration Awards\|Exploration Awards]] • [[Historical Rumour\|Historical Rumour]]
 [[Houserules Index\|Houserules Index]] • [[Modified Character Creation\|Modified Character Creation]] • [[Modified XP and Leveling\|Modified XP and Leveling]]
-[[Recuperating (Downtime)\|Recuperating (Downtime)]] • [[Rumours\|Rumours]] • [[Slot-Based Encumbrance\|Slot-Based Encumbrance]]
+[[Recuperating (Downtime)\|Recuperating (Downtime)]] • [[Rumours\|Rumours]] • [[Slot-Based Inventory\|Slot-Based Inventory]]
 [[Tasks (XP)\|Tasks (XP)]] • [[Training (Downtime)\|Training (Downtime)]]
 
 ## Related

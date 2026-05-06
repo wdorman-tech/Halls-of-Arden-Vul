@@ -7,7 +7,7 @@
 
 - **Cost:** 1 gp
 - **Weight:** 5 lb
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

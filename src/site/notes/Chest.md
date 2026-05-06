@@ -8,7 +8,7 @@
 - **Capacity:** 3 cubic ft / 30 lbs
 - **Cost:** 1 gp
 - **Weight:** ~10 lb (empty)
-- **Encumbrance Slots:** 3 (very large item)
+- **Inventory Slots:** 3 (very large item)
 
 ## Notes
 
