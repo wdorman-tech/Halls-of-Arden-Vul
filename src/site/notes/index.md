@@ -12,11 +12,22 @@ Player-side reference for the [[Halls of Arden Vul\|Halls of Arden Vul]] campaig
 
 ---
 
+## The Party
+
+Live roster of who's playing what. Each character is owned by a player; each player can have multiple characters.
+
+- ⚔️ [[All Characters\|All Characters]] — every character in the campaign (alive, dead, retired) with class, ancestry, level, and owner
+- 🎭 [[All Players\|All Players]] — every real-world player at the table with their notes and linked characters
+- 📝 [[Templates/Player Template\|Player Template]] — character sheet template (set `owner:` to link back to a player)
+- 🪪 [[Templates/Player Profile Template\|Player Profile Template]] — player profile template (custom notes + linked characters)
+
+---
+
 ## Browse the Wiki
 
 Pick a category to see every note inside it. Each page lists its members alphabetically with sub-groupings where useful.
 
-### Characters
+### Character Options
 
 - 📜 [[All Classes\|All Classes]] — every player class (Fighter, Cleric, Magic-User, etc.)
 - 🌳 [[All Ancestries\|All Ancestries]] — playable species + cultures
@@ -57,6 +68,7 @@ Pick a category to see every note inside it. Each page lists its members alphabe
 ## Player Tools
 
 - 📝 [[Templates/Player Template\|Player Template]] — full OSRIC character sheet template (page-12 layout) with embedded inventory grid + spell book
+- 🪪 [[Templates/Player Profile Template\|Player Profile Template]] — real-world player profile (custom notes + linked characters)
 - 🎒 [[Templates/Inventory Sheet Blank\|Inventory Sheet Blank]] — standalone slot-based inventory grid with [[Strength\|Strength]] row gating
 - 📜 [[Houserules Index\|Houserules Index]] — curated houserule overview with rationale
 

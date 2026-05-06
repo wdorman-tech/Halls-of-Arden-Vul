@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/templates/player-template/","dg-note-properties":{"aliases":[null],"categories":["[[player]]","[[arden-vul]]"],"player_name":null,"class":null,"ancestry":null,"alignment":null,"level":1,"xp":0,"age":null,"height":null,"weight":null,"gender":null,"hp_current":null,"hp_max":null,"ac":10,"movement_rate":120,"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"created":{"{ date:MM-DD-YYYY HH:mm }":null}}}
+{"dg-publish":true,"permalink":"/templates/player-template/","dg-note-properties":{"aliases":[null],"categories":["[[character]]","[[arden-vul]]"],"owner":null,"character_name":null,"inventory_sheet":null,"class":null,"ancestry":null,"alignment":null,"level":1,"xp":0,"age":null,"height":null,"weight":null,"gender":null,"hp_current":null,"hp_max":null,"ac":10,"movement_rate":120,"str":10,"dex":10,"con":10,"int":10,"wis":10,"cha":10,"created":{"{ date:MM-DD-YYYY HH:mm }":null}}}
 ---
 
 
@@ -18,9 +18,6 @@
 > *"By steel, by spell, by stubborn breath — into the dark we go.*
 > *Few return. Fewer return whole. None return unchanged."*
 
-> [!info]+ 📜 How to use this scroll
-> Duplicate this file into the vault root, rename it to your character's name, and inscribe each field with care. The frontmatter feeds the header summary; the body sections drive the printable sheet. **Push to GitHub** to publish your hero to the wider chronicle.
-
 ---
 
 ## ⚔️ Character
@@ -30,6 +27,7 @@
 ```
 
 🪪 **Name:** _Character Name_  
+🎭 **Owner (Player):** [[Player Name\|Player Name]]  
 🛡️ **Class(es):** [[Fighter\|Fighter]]  ⚜  **Level:** 1  ⚜  ✨ **XP:** 0  
 🌿 **Ancestry:** [[Human\|Human]]  ⚜  ⚖️ **Alignment:** [[Lawful Good\|Lawful Good]]  
 🕰️ **Age:** _ _   📏 **Height:** _ _   ⚖ **Weight:** _ _   👤 **Gender:** _ _
@@ -128,6 +126,8 @@
    │  ╚═╩═╩═╩═╩═╩═╝                           │
    ╰───────────────────────────────────────────╯
 ```
+
+📜 **Detailed inventory sheet:** [[Character Name — Inventory\|Character Name — Inventory]] *(rename to match — duplicate [[Templates/Inventory Sheet Blank\|Inventory Sheet Blank]] for the full standalone version)*
 
 > 📖 See [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] for the full rules. Each row of 6 unlocks at the listed [[Strength\|Strength]] score; carrying past your row threshold inflicts encumbrance penalties.
 
@@ -229,6 +229,8 @@ Editable list of spells the character has memorised or recorded. Each row links 
    ━━━━━━━━━━━━━━━━ ✦ ━ ⚜ ━ ✦ ━━━━━━━━━━━━━━━━
 ```
 
+- 🎭 **Owner:** [[Player Name\|Player Name]] — the real-world player at the table
+- 📜 **Inventory:** [[Character Name — Inventory\|Character Name — Inventory]] — full standalone sheet
 - 🛠️ [[Modified Character Creation\|Modified Character Creation]] — how this character was generated
 - 🎒 [[Slot-Based Encumbrance\|Slot-Based Encumbrance]] — inventory rules
 - 🪄 [[Spellcasting\|Spellcasting]] — for casters

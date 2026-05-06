@@ -22,6 +22,8 @@ Every page in this vault has at least one category. Categories are singular and 
 
 ### Character
 
+- [[Character\|character]]
+- [[Player\|player]]
 - [[Ancestry\|ancestry]]
 - [[Culture\|culture]]
 - [[Class\|class]]
