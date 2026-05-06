@@ -19,7 +19,7 @@ Houserules covering ancestries, languages associated with ancestry, and human cu
 
 **Language swaps.** Any character may replace any starting language they receive with one of: [[Archontean (language)\|Archontean (language)]], [[Thorcin (language)\|Thorcin (language)]], [[Wiskin (language)\|Wiskin (language)]], or [[Mithric\|Mithric]] (the ancient language of magic researchers).
 
-**Common does not exist.** Anyone who would learn [[Common\|Common]] instead learns another language of choice.
+**Common is a starting language for everyone.** All player characters automatically know [[Common\|Common]] in addition to their normal starting languages — it is the universal trade tongue of the campaign world.
 
 ## Why this matters
 
@@ -33,6 +33,6 @@ Houserules covering ancestries, languages associated with ancestry, and human cu
 - [[OSRIC\|OSRIC]] — base rules modified
 - [[Imperial Goblin\|Imperial Goblin]]
 - [[Culture\|Culture]] — [[Archontean\|Archontean]], [[Thorcin\|Thorcin]], [[Wiskin\|Wiskin]]
-- [[Common\|Common]] (does not exist)
+- [[Common\|Common]] — universal starting language
 - [[Mithric\|Mithric]]
 - [[The Halls of Arden Vul Player Doc\|The Halls of Arden Vul Player Doc]] — source

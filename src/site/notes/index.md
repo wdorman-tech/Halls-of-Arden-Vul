@@ -18,24 +18,14 @@ Live roster of who's playing what. Each character is owned by a player; each pla
 
 ### 🎭 Players
 
-
-```base
-filters:
-  and:
-    - "categories.contains(\"[[player]]\")"
-    - "file.folder != \"Templates\""
-formulas:
-  link: "file.asLink()"
-views:
-  - type: table
-    name: Players
-    order:
-      - formula.link
-    columnSize:
-      note.categories: 401
-
-```
-
+- 🪪 [[JK\|JK]] — Chaotic Good Human Thief
+- 🪪 [[Josiah\|Josiah]] — TBD
+- 🪪 [[Andrew\|Andrew]] — TBD
+- 🪪 [[Hunter\|Hunter]] — Chaotic Neutral Human Fighter
+- 🪪 [[John\|John]] — Chaotic Good Human Fighter
+- 🪪 [[Bri\|Bri]] — Chaotic Good Human Fighter
+- 🪪 [[Connor\|Connor]] — Chaotic Neutral Half-Elf Druid
+- 🪪 [[William\|William]] — True Neutral Elf Magic-User
 
 ### 🔗 More
 

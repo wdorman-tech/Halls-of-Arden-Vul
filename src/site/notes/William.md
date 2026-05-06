@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/william/","dg-note-properties":{"aliases":[null],"categories":["[[player]]","[[arden-vul]]"],"player_name":"William","real_name":null,"pronouns":null,"discord":null,"email":null,"timezone":null,"joined":"05-05-2026","status":"active","characters":null,"deaths":0,"created":"05-05-2026 12:00"}}
+{"dg-publish":true,"permalink":"/william/","dg-note-properties":{"aliases":[null],"categories":["[[player]]","[[arden-vul]]"],"player_name":"William","real_name":null,"pronouns":null,"discord":null,"email":null,"timezone":null,"joined":"05-05-2026","status":"active","characters":"[[Maximilian\|Maximilian]]","deaths":0,"created":"05-05-2026 12:00"}}
 ---
 
 
@@ -46,7 +46,7 @@
 
 | 🪪 Character | ⚔️ Class | 🌿 Ancestry | 🎚️ Level | 💀 Status |
 |---|---|---|---|---|
-| _(unnamed, [[True Neutral\|N]])_ | [[Magic-User\|Magic-User]] | [[Elf\|Elf]] | 1 | 🟢 Active |
+| [[Maximilian\|Maximilian]] | [[Magic-User\|Magic-User]] | [[Elf\|Elf]] | 1 | 🟢 Active |
 |  |  |  |  |  |
 
 ### 🪦 Fallen / Retired

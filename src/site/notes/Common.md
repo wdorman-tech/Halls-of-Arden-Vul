@@ -5,19 +5,19 @@
 
 ## Notes
 
-In the standard [[OSRIC\|OSRIC]] setting, Common is the lingua franca that lets most characters speak to each other regardless of ancestry. **In the Halls of Arden Vul setting, Common does not exist.**
+In the standard [[OSRIC\|OSRIC]] setting, Common is the lingua franca that lets most characters speak to each other regardless of ancestry. **In the Halls of Arden Vul, Common is automatically known by every starting PC**, regardless of ancestry, in addition to their normal starting languages from [[Ancestry\|Ancestry]] and [[Intelligence\|Intelligence]].
 
 ## Houserule
 
-> **From the Player Doc:** "Common does not exist, and anyone who would learn common instead learns another language of their choice."
+> **House rule:** Every starting PC automatically learns Common in addition to the normal starting languages granted by [[Ancestry\|Ancestry]] and [[Intelligence\|Intelligence]].
 
-This is significant: there is no universal fall-back tongue. Characters who do not share an ancestry language, an alignment tongue, or a deliberate cultural/ancient choice will not be able to communicate easily. Pick your starting languages carefully.
+This means there is always a universal fall-back tongue at the table — characters can communicate with one another and with most NPCs across the imperial trade lanes, regardless of their other language choices.
 
 ## Why this matters
 
-- Diplomacy and exploration become language puzzles in their own right.
-- Multilingual characters (high [[Intelligence\|Intelligence]]) gain serious utility.
-- The empire's lingua franca is in practice [[Archontean (language)\|Archontean (language)]] — but only where the empire's reach has spread.
+- Cross-ancestry party conversation never stalls on language barriers.
+- Multilingual characters (high [[Intelligence\|Intelligence]]) still gain serious utility — for talking to monsters, reading dungeon inscriptions, and decoding ancient writings.
+- Common coexists with [[Archontean (language)\|Archontean (language)]] (the empire's official tongue) — Common is the broader **trade** tongue of the merchant lanes.
 
 ## Related
 
