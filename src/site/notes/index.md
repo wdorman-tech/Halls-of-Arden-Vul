@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dg-note-properties":{"aliases":["Home","Vault Home","Arden Vul Index"],"categories":["[[organization]]","[[wiki]]"],"created":"05-05-2026 12:00"}}
+{"dg-publish":true,"permalink":"/index/","tags":["gardenEntry"],"dgEnableSearch":true,"dgShowToc":true,"dg-note-properties":{"aliases":["Home","Vault Home","Arden Vul Index"],"categories":["[[organization]]","[[wiki]]"],"created":"05-05-2026 12:00"}}
 ---
 
 
