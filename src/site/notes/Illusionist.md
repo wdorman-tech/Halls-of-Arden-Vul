@@ -5,7 +5,7 @@
 
 ## Notes
 
-The [[Illusionist\|Illusionist]] is a sub-class of [[Magic-User\|Magic-User]] who practices phantasmal magic — spells that influence senses and minds rather than reshape matter. Illusionists need both [[Dexterity\|Dexterity]] and [[Intelligence\|Intelligence]], rely on a spell book, and record their formulas in a secret [[Phantasmal Notation\|Phantasmal Notation]] that ordinary magic-users cannot read without [[Read Magic\|Read Magic]]. Their spells go to seventh level, and they may eventually establish a manse, mansion, or manor.
+The [[Illusionist\|Illusionist]] is an **entirely separate class** that shares many mechanics with the [[Magic-User\|Magic-User]] (spell book, Vancian preparation, d4 hit die, no armour, dagger/dart/oil/staff weapon list) but is **not** a sub-class of magic-user. Illusionists practice phantasmal magic — spells that influence senses and minds rather than reshape matter. They need both [[Dexterity\|Dexterity]] and [[Intelligence\|Intelligence]], rely on a spell book, and record their formulas in a secret [[Phantasmal Notation\|Phantasmal Notation]] that ordinary magic-users cannot read without [[Read Magic\|Read Magic]]. Their spells go to seventh level, and they may eventually establish a manse, mansion, or manor.
 
 ## Key Facts
 
@@ -34,7 +34,7 @@ The [[Illusionist\|Illusionist]] is a sub-class of [[Magic-User\|Magic-User]] wh
 - [[Class\|Class]]
 - [[Illusionist Spellcasting\|Illusionist Spellcasting]]
 - [[Phantasmal Notation\|Phantasmal Notation]]
-- [[Magic-User\|Magic-User]]
+- [[Magic-User\|Magic-User]] — separate class with similar mechanics
 - [[Spell Book\|Spell Book]]
 - [[Spell Research\|Spell Research]]
 - [[Illusionist Spells - 1st Level\|Illusionist Spells - 1st Level]], [[Illusionist Spells - 2nd Level\|Illusionist Spells - 2nd Level]], [[Illusionist Spells - 3rd Level\|Illusionist Spells - 3rd Level]], [[Illusionist Spells - 4th Level\|Illusionist Spells - 4th Level]], [[Illusionist Spells - 5th Level\|Illusionist Spells - 5th Level]], [[Illusionist Spells - 6th Level\|Illusionist Spells - 6th Level]], [[Illusionist Spells - 7th Level\|Illusionist Spells - 7th Level]]

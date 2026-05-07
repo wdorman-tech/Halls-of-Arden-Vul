@@ -19,20 +19,20 @@ Houserules covering ancestries, languages associated with ancestry, and human cu
 
 **Language swaps.** Any character may replace any starting language they receive with one of: [[Archontean (language)\|Archontean (language)]], [[Thorcin (language)\|Thorcin (language)]], [[Wiskin (language)\|Wiskin (language)]], or [[Mithric\|Mithric]] (the ancient language of magic researchers).
 
-**Common is a starting language for everyone.** All player characters automatically know [[Common\|Common]] in addition to their normal starting languages — it is the universal trade tongue of the campaign world.
+**[[Common\|Common]] does not exist.** There is no universal trade tongue in this setting. Any character who would learn Common from any source (ancestry list, class, etc.) instead learns one additional language of their choice (subject to the available setting languages and GM approval).
 
 ## Why this matters
 
 - Removing level caps + giving humans max-HP-1 balances ancestries upward together — no one is the obvious "weak" pick.
 - Gnomes-as-Imperial-Goblins reflavours one of the OSRIC ancestries to fit the setting's politics.
 - Human culture choice fuses race and culture for humans the way OSRIC fuses them for demihumans, and it forces players to declare a relationship to the empire.
-- The language swap and "no Common" rules together make language a meaningful choice rather than an autopilot.
+- The language swap and "no Common" rules together make language a meaningful choice rather than an autopilot — there is no fall-back tongue, and translation matters.
 
 ## Related
 
 - [[OSRIC\|OSRIC]] — base rules modified
 - [[Imperial Goblin\|Imperial Goblin]]
 - [[Culture\|Culture]] — [[Archontean\|Archontean]], [[Thorcin\|Thorcin]], [[Wiskin\|Wiskin]]
-- [[Common\|Common]] — universal starting language
+- [[Common\|Common]] — does not exist in this setting
 - [[Mithric\|Mithric]]
 - [[The Halls of Arden Vul Player Doc\|The Halls of Arden Vul Player Doc]] — source

@@ -11,6 +11,9 @@ Gnomes are small folk loosely related to dwarfs — shorter, slimmer, longer-nos
 
 **Gnomes do not exist in the [[Halls of Arden Vul\|Halls of Arden Vul]] setting.** Per the Player Doc, the [[Imperial Goblin\|Imperial Goblin]] ancestry uses Gnome statistics, except that Imperial Goblins learn an additional language instead of [[Gnomish\|Gnomish]]. See [[Imperial Goblin\|Imperial Goblin]] for the campaign-specific version of this stat block.
 
+> [!warning] Additional Halls of Arden Vul houserule (applies to the Imperial Goblin replacement)
+> **[[Common\|Common]] does not exist in this setting either.** Anywhere "Common" appears in the language list below, it is **replaced by one additional language of player choice** (see [[Ancestry Houserules\|Ancestry Houserules]]). For Imperial Goblins this stacks with the language swap that already replaces Gnomish.
+
 ## Key Facts
 
 - **Size:** Small

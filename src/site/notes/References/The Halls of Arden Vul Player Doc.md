@@ -11,12 +11,13 @@ The Halls of Arden Vul Player Doc is the campaign-specific rulebook supplement. 
 
 - **Author:** Campaign GM (William Dorman)
 - **Source:** Local file at `C:\Users\bob dorman\Documents\Halls of Arden Vul\The Halls of Arden Vul Player Doc.md`
-- **Coverage:** Encumbrance houserule, character creation houserules, ancestry houserules, class houserules, deity list, collegia list, downtime activities, carousing table, exploration awards
+- **Coverage:** Inventory houserule (slot grid), character creation houserules, ancestry houserules, class houserules, deity list, collegia list, downtime activities, carousing table, exploration awards
 - **Status:** Living document — may change as the campaign progresses
+- **Houserule update (2026-05-06):** The Player Doc's slot-based encumbrance **penalties are no longer used**. The slot grid remains as an organisational tool, but there are no carry-weight penalties (no STR-row gating, no movement reductions, no surprise penalties from carried items) — see [[Houserules Index\|Houserules Index]] and [[Slot-Based Inventory\|Slot-Based Inventory]].
 
 ## Related
 
 - [[OSRIC\|OSRIC]] — base system being modified
 - [[References/OSRIC 3.0 Player Guide\|OSRIC 3.0 Player Guide]] — the underlying ruleset
-- All houserule notes ([[Slot-Based Encumbrance\|Slot-Based Encumbrance]], [[Modified Character Creation\|Modified Character Creation]], [[Ancestry Houserules\|Ancestry Houserules]], [[Class Houserules\|Class Houserules]], [[Modified XP and Leveling\|Modified XP and Leveling]], [[Downtime\|Downtime]], [[Carousing\|Carousing]], [[Exploration Awards\|Exploration Awards]])
+- All houserule notes ([[Slot-Based Inventory\|Slot-Based Inventory]], [[Modified Character Creation\|Modified Character Creation]], [[Ancestry Houserules\|Ancestry Houserules]], [[Class Houserules\|Class Houserules]], [[Modified XP and Leveling\|Modified XP and Leveling]], [[Downtime\|Downtime]], [[Carousing\|Carousing]], [[Exploration Awards\|Exploration Awards]])
 - [[The Ten\|The Ten]], [[The Seventeen\|The Seventeen]], [[Seven Collegia\|Seven Collegia]]

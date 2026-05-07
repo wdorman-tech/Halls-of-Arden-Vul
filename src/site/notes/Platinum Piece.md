@@ -7,7 +7,7 @@
 
 - **Value:** 5 [[Gold Piece\|Gold Piece]]s
 - **Weight:** 0.1 lb (10 coins = 1 lb)
-- **Encumbrance Slots:** negligible per coin
+- **Inventory Slots:** negligible per coin
 
 ## Exchange
 

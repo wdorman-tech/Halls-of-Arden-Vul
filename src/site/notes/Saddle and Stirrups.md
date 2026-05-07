@@ -7,7 +7,7 @@
 
 - **Cost:** 5 sp
 - **Weight:** 0 (mounted) / 20 lb (carried)
-- **Encumbrance Slots:** 2
+- **Inventory Slots:** 2
 
 ## Notes
 

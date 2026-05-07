@@ -7,7 +7,7 @@
 
 - **Cost:** 5 sp per day
 - **Weight:** 2 lb per day
-- **Encumbrance Slots:** 1 per day
+- **Inventory Slots:** 1 per day
 
 ## Notes
 

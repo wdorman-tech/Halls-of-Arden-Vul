@@ -3,7 +3,7 @@
 ---
 
 
-> [!warning] 🏠 **Home Rule Update (2026-05-06):** The encumbrance system described in this original Player Doc is **no longer in use**. The slot grid is kept as an organisational inventory tracker, but there are **no carry-weight penalties** — no STR-row gating, no movement reductions from carried items, no surprise penalties. Item weights in pounds are kept as a descriptive property only. Mules use a 6 × 4 = 24-slot pack-saddle grid. See [[Houserules Index\|Houserules Index]] and [[Slot-Based Inventory\|Slot-Based Inventory]] for the current rule. The encumbrance section below is retained as historical context.
+> [!warning] **Home Rule Update (2026-05-06):** The encumbrance system described in this original Player Doc is **no longer in use**. The slot grid is kept as an organisational inventory tracker, but there are **no carry-weight penalties** — no STR-row gating, no movement reductions from carried items, no surprise penalties. Item weights in pounds are kept as a descriptive property only. Mules use a 6 × 4 = 24-slot pack-saddle grid. See [[Houserules Index\|Houserules Index]] and [[Slot-Based Inventory\|Slot-Based Inventory]] for the current rule. The encumbrance section below is retained as historical context.
 
 The system we will be using is OSRIC (Old School Reference and Index Compilation) 3rd Edition. The rules are available [here](https://www.drivethrurpg.com/en/product/550861/osric-3-0-player-guide?src=hottest_filtered), you can download them for free by pressing the zero dollar button.   
 I will be making a few changes to the rules to make the game flow a little bit better. Those changes will be listed here, and may be changed as the game moves forward.

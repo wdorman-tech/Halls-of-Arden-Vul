@@ -22,16 +22,16 @@ Several houserules adjust character creation to make starting characters fragile
 - Magic-Users automatically know **Read Magic** in addition to two random and two of-choice spells.
 - Magic-Users must choose one of the [[Seven Collegia\|Seven Collegia]].
 
-**Equipment:** Same gear list. Inventory is tracked on a slot grid — see [[Slot-Based Inventory\|Slot-Based Inventory]].
+**Equipment:** Same gear list. Inventory is tracked as a flat list on the character sheet (wiki) and as a slot-based shape grid on physical paper at the table — see [[Slot-Based Inventory\|Slot-Based Inventory]].
 
-**Extra (Rumours):** Every starting character gets **1d3 [[Adventuring Rumour\|adventuring rumours]]** and **1d2 [[Historical Rumour\|historical rumours]]**. Each contains at least some truth, but accuracy is not guaranteed. Backup characters and post-start characters do **not** get rumours.
+**Extra (Rumours):** Rumours are tracked **per player, not per character**. When a player rolls their *first* character, they receive **1d3 [[Adventuring Rumour\|adventuring rumours]]** and **1d2 [[Historical Rumour\|historical rumours]]** recorded on their player profile. Each contains at least some truth, but accuracy is not guaranteed. Every subsequent PC that player runs walks into Arden Vul already knowing the same set; backup and post-start characters do **not** roll new rumours.
 
 ## Why this matters
 
 - 3d6-in-order with one swap keeps stats in the OSRIC-canonical low range while granting a tiny amount of agency.
 - Removing level caps and giving humans max-HP-at-1 rebalances the ancestries upward together.
 - Free Read Magic and a forced collegium choice make every magic-user PC a participant in the empire's regulated magical politics.
-- Starting rumours seed every character into the world's mysteries from session 1.
+- Starting rumours seed every player into the world's mysteries from session 1 — and bind a player's PCs together as people who heard the same tavern stories.
 
 ## Related
 

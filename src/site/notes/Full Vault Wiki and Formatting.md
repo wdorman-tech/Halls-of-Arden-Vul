@@ -20,7 +20,7 @@ The categories used in this vault:
 - [[Class\|class]] — character classes (fighter, cleric, magic-user, etc.)
 - [[ability-score\|ability-score]] — STR/DEX/CON/INT/WIS/CHA
 - [[Alignment\|alignment]] — the nine alignments + alignment language
-- [[mechanic\|mechanic]] — generic game subsystems (saving throws, XP, encumbrance, hit points, etc.)
+- [[mechanic\|mechanic]] — generic game subsystems (saving throws, XP, hit points, etc.)
 - [[skill\|skill]] — class-specific abilities (backstab, turn undead, climb walls, etc.)
 - [[trait\|trait]] — ancestral features (infravision, stalwart, lightfooted, etc.)
 - [[spell\|spell]] — every individual spell from every spell list

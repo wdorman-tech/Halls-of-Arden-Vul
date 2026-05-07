@@ -11,7 +11,7 @@
 | Large pouch | 1/2 cubic ft / 5 lbs | 1 gp |
 
 - **Weight:** negligible (empty)
-- **Encumbrance Slots:** 0 (worn) / 1 if many
+- **Inventory Slots:** 0 (worn) / 1 if many
 
 ## Notes
 

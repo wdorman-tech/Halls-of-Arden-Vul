@@ -7,6 +7,9 @@
 
 Halflings are a small, bucolic burrow-dwelling folk who prefer villages and farmsteads to cities. Their society is comfortable and placid, so adventurers are rare and famous (or infamous) among their kin. Halflings are quiet on their feet, adept at hiding, and deadly accurate with bow or sling. They reach adulthood in their early 30s and live 145-199 years.
 
+> [!warning] Halls of Arden Vul houserule
+> **[[Common\|Common]] does not exist in this setting.** Anywhere "Common" appears in the language list below, it is **replaced by one additional language of player choice** (see [[Ancestry Houserules\|Ancestry Houserules]]). The OSRIC level caps for halflings are **removed** in this campaign — see [[Ancestry Houserules\|Ancestry Houserules]].
+
 ## Key Facts
 
 - **Size:** Small

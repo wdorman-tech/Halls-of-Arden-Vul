@@ -7,7 +7,7 @@
 
 - **Cost:** 5 sp
 - **Weight:** 2 lb
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

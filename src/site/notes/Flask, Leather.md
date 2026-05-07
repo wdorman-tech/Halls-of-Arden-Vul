@@ -7,7 +7,7 @@
 
 - **Cost:** 3 cp
 - **Weight:** -- (negligible)
-- **Encumbrance Slots:** 0 worn
+- **Inventory Slots:** 0 worn
 
 ## Notes
 

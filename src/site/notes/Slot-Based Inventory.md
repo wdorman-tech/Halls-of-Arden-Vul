@@ -7,7 +7,7 @@
 
 The slot-based inventory grid is a video-game-style tracking tool: every item the character carries is placed on a grid of slots. The grid is purely organisational — there are **no carrying-capacity penalties** and no [[Strength\|Strength]]-based gating. Use it to keep an at-a-glance picture of what each character (and their pack animals) is hauling.
 
-> [!info] 🪙 **No carry-weight penalties.** Item weights in pounds are kept on equipment notes as a descriptive property, but they are not tracked against any allowance and do not modify movement, surprise, or anything else (campaign houserule — see [[Houserules Index\|Houserules Index]]).
+> [!info] **No carry-weight penalties.** Item weights in pounds are kept on equipment notes as a descriptive property, but they are not tracked against any allowance and do not modify movement, surprise, or anything else (campaign houserule — see [[Houserules Index\|Houserules Index]]).
 
 ## The Grid
 

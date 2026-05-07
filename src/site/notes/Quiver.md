@@ -13,7 +13,7 @@
 | Quiver (24 bolts) | 24 [[Bolt, Heavy Crossbow\|bolts]] | 3 gp |
 
 - **Weight:** 0 (empty)
-- **Encumbrance Slots:** 1 (worn, counts as 1 slot for the bundle)
+- **Inventory Slots:** 1 (worn, counts as 1 slot for the bundle)
 
 ## Notes
 

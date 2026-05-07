@@ -41,6 +41,6 @@ In this campaign, [[Magic-User\|Magic-User]] characters automatically know [[Rea
 - [[Spell Research\|Spell Research]]
 - [[Read Magic\|Read Magic]]
 - [[Seven Collegia\|Seven Collegia]]
-- [[Illusionist\|Illusionist]] (sub-class)
+- [[Illusionist\|Illusionist]] — separate class with similar mechanics (spell book, Vancian prep, d4 HD, dagger/dart/oil/staff)
 - [[Magic-User Spells - 1st Level\|Magic-User Spells - 1st Level]], [[Magic-User Spells - 2nd Level\|Magic-User Spells - 2nd Level]], [[Magic-User Spells - 3rd Level\|Magic-User Spells - 3rd Level]], [[Magic-User Spells - 4th Level\|Magic-User Spells - 4th Level]], [[Magic-User Spells - 5th Level\|Magic-User Spells - 5th Level]], [[Magic-User Spells - 6th Level\|Magic-User Spells - 6th Level]], [[Magic-User Spells - 7th Level\|Magic-User Spells - 7th Level]], [[Magic-User Spells - 8th Level\|Magic-User Spells - 8th Level]], [[Magic-User Spells - 9th Level\|Magic-User Spells - 9th Level]]
 - [[Intelligence\|Intelligence]]

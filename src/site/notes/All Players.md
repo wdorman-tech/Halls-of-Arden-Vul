@@ -7,7 +7,7 @@
 
 Every real-world player at the table. See [[Player\|Player]] for the concept and [[Templates/Player Profile Template\|Player Profile Template]] for the player profile template.
 
-> [!tip] 🎭 Adding a new player
+> [!tip] Adding a new player
 > Duplicate [[Templates/Player Profile Template\|Player Profile Template]] into the vault root, rename it to the player's display name, and fill out their profile. As they create characters, link each one in the **Characters** section of their profile and set the character's `owner:` frontmatter back to this player.
 
 ### Players
@@ -33,8 +33,8 @@ views:
 
 ## Related
 
-- ⚔️ [[All Characters\|All Characters]] — every character, with owner column
-- 🎭 [[Player\|Player]] — concept
-- 📝 [[Templates/Player Profile Template\|Player Profile Template]] — player profile template
+- [[All Characters\|All Characters]] — every character, with owner column
+- [[Player\|Player]] — concept
+- [[Templates/Player Profile Template\|Player Profile Template]] — player profile template
 - [[index\|Vault Home]]
 - [[By Category\|By Category]] — every category, all on one page

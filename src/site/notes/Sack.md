@@ -11,7 +11,7 @@
 | Large sack | 4 cubic ft / 40 lbs | 1 gp |
 
 - **Weight:** negligible (empty)
-- **Encumbrance Slots:** 1 (and counts what it carries)
+- **Inventory Slots:** 1 (and counts what it carries)
 
 ## Notes
 
@@ -21,4 +21,4 @@ A canvas or burlap bag, often used for hauling loot out of a dungeon. The large 
 
 - [[Backpack\|Backpack]]
 - [[Pouch\|Pouch]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]

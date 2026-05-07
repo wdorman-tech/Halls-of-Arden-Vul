@@ -7,6 +7,9 @@
 
 Dwarfs are short, burly mountain folk known for loyalty, fierce combat, and an aesthetic love of gold, gems, and worked metal. They are quite resistant to [[Poison\|Poison]], [[Spell\|Spell]]s, and spell-like effects, and their underground heritage gives them keen senses for stonework and a hatred of certain humanoids. Dwarfs reach adulthood around 50 and can live 350-450 years.
 
+> [!warning] Halls of Arden Vul houserule
+> **[[Common\|Common]] does not exist in this setting.** Anywhere "Common" appears in the language list below, it is **replaced by one additional language of player choice** (see [[Ancestry Houserules\|Ancestry Houserules]]). The OSRIC level caps for dwarfs are **removed** in this campaign — see [[Ancestry Houserules\|Ancestry Houserules]].
+
 ## Key Facts
 
 - **Size:** Small

@@ -3,75 +3,46 @@
 ---
 
 
-```
-   ╔══════════════════════════════════════════════════════════════════╗
-   ║  🎭  ✦  ⚜  ✦  🎲                                       🎲  ✦  ⚜  ✦  🎭  ║
-   ║                                                                  ║
-   ║          𝕻𝖑𝖆𝖞𝖊𝖗 𝖔𝖋 𝖙𝖍𝖊 𝕮𝖍𝖗𝖔𝖓𝖎𝖈𝖑𝖊                          ║
-   ║              ✦ Halls of Arden Vul ✦                              ║
-   ║                                                                  ║
-   ║  🎭  ✦  ⚜  ✦  🎲                                       🎲  ✦  ⚜  ✦  🎭  ║
-   ╚══════════════════════════════════════════════════════════════════╝
-```
-
-> [!quote] 🍺 *"Behind every dead character sits a player who learned something."*
+# Player Profile — JK
 
 ---
 
 ## 🪪 Player
 
-```
-   ━━━━━━━━━━━━━━ ✦ ━ At the Table ━ ✦ ━━━━━━━━━━━━━━
-```
-
-🎭 **Player Name:** _JK_  
-👤 **Real Name:** _ _  
-🗣️ **Pronouns:** _ _  
-💬 **Discord:** _ _  
-📧 **Email:** _ _  
-🌐 **Timezone:** _ _  
-📅 **Joined:** _05-05-2026_  
-🟢 **Status:** _active_  
-☠️ **Death Count:** _0_
+- **Player Name:** JK
+- **Real Name:** _ _
+- **Pronouns:** _ _
+- **Discord:** _ _
+- **Email:** _ _
+- **Timezone:** _ _
+- **Joined:** 05-05-2026
+- **Status:** active
+- **Death Count:** 0
 
 ---
 
 ## ⚔️ Characters
 
-```
-   ━━━━━━━━━━━━━━ ✦ ━ Heroes Played ━ ✦ ━━━━━━━━━━━━━━
-```
-
-> 📖 Every character belonging to this player. Link each one — alive, dead, or retired. Each character note should set its `owner:` frontmatter to this player.
-
-| 🪪 Character | ⚔️ Class | 🌿 Ancestry | 🎚️ Level | 💀 Status |
+| Character | Class | Ancestry | Level | Status |
 |---|---|---|---|---|
-| _(unnamed, [[Chaotic Good\|CG]])_ | [[Thief\|Thief]] | [[Human\|Human]] | 1 | 🟢 Active |
-|  |  |  |  |  |
+| _(unnamed, [[Chaotic Good\|CG]])_ | [[Thief\|Thief]] | [[Human\|Human]] | 1 | Active |
 
-### 🪦 Fallen / Retired
+### Fallen / Retired
 
 - _None yet_
 
 ---
 
-## 📝 Notes
+## Notes
 
-```
-   ━━━━━━━━━━━━━━ ✦ ━ The Player Themself ━ ✦ ━━━━━━━━━━━━━━
-```
+- _Playstyle:_ Methodical and paranoid in the best way — JK insists on inspecting doors, frames, locks, floors, walls, and ceilings before any room entry. See **JK's SOP** below.
+- _Preferences:_ Cautious trap-checking; uses a 10-foot pole.
+- _Availability:_ 
+- _House notes:_ Coined the line "*unnecessary things might include multiple gallons of alcohol or a rowboat*."
 
-> [!note] 🎲 Free-form
-> Anything specific to this player — playstyle, preferences, table conduct, schedule quirks, house notes, in-jokes, debts owed in pizza, whatever helps the GM and other players remember who's who.
+### JK's SOP — Entering a Room
 
-- 🎯 _Playstyle:_ Methodical and paranoid in the best way — JK insists on inspecting doors, frames, locks, floors, walls, and ceilings before any room entry. See **JK's SOP** below.
-- 🧠 _Preferences:_ Cautious trap-checking; uses a 10-foot pole.
-- 📅 _Availability:_ 
-- 🍕 _House notes:_ Coined the line "*unnecessary things might include multiple gallons of alcohol or a rowboat*."
-
-### 🪤 JK's SOP — Entering a Room
-
-> [!example] 🚪 Standard procedure (verbatim)
+> [!example] Standard procedure (verbatim)
 > Before opening the door, I examine the door, the door frame, the door knob, the lock, and the floor in front of the door for any sort of triggering mechanism. I examine the ceiling, walls, floor and door for any sort of trap such as: falling hammers or boulders, unknown magical devices, or any sort of projectile, etc.
 >
 > I now open the door slightly and look inside for any obvious threats such as any form of being, or streams of fire, etc. anything that catches my eye. I also look for other entrances and exits in the room or nearby hallway.
@@ -84,45 +55,31 @@
 >
 > If there is an object of interest in the room: I examine the object for any sort of triggering mechanisms for a trap. If the object is on a stand, pedestal, or other device, I also check the stand, pedestal, or other device for some form of triggering mechanism or danger.
 
-### 💬 Rumours JK's character has heard
+---
 
-> 📖 Move to the character's sheet once a character is named/created. Each rumour is partial truth — some are bait.
+## 💬 Rumours Heard
 
-- 💬 _([[Adventuring Rumour\|Adventuring Rumour]])_ A corpse in the catacombs of Thoth carried a parchment claiming the legendary thieves' mask of **Tettius**, founder of the Benevolent Brotherhood, had been "borrowed" by an imperial functionary, **Menas the logothete**, just before the city's fall. Find Menas' tomb, find the mask.
-- 💬 _([[Adventuring Rumour\|Adventuring Rumour]])_ No one has made it past the **Obsidian Gates** — even *[[Knock\|Knock]]* fails. The best treasures are said to lie behind them.
-- 💬 _([[Historical Rumour\|Historical Rumour]])_ ~250 years ago, the [[Basileus\|Basileus]] sent his political ally **Adrienic** to re-establish an [[Archontean Empire\|Archontean]] presence at Arden Vul. Adrienic proclaimed himself archon, but he and his entire expeditionary force vanished without a trace within a couple of years.
+> Rumours are tracked **per player**, not per character — every PC JK runs walks into Arden Vul knowing what JK knows. Some are true. Some are bait.
+
+- _([[Adventuring Rumour\|Adventuring Rumour]])_ A corpse in the catacombs of Thoth carried a parchment claiming the legendary thieves' mask of **Tettius**, founder of the Benevolent Brotherhood, had been "borrowed" by an imperial functionary, **Menas the logothete**, just before the city's fall. Find Menas' tomb, find the mask.
+- _([[Adventuring Rumour\|Adventuring Rumour]])_ No one has made it past the **Obsidian Gates** — even *[[Knock\|Knock]]* fails. The best treasures are said to lie behind them.
+- _([[Historical Rumour\|Historical Rumour]])_ ~250 years ago, the [[Basileus\|Basileus]] sent his political ally **Adrienic** to re-establish an [[Archontean Empire\|Archontean]] presence at Arden Vul. Adrienic proclaimed himself archon, but he and his entire expeditionary force vanished without a trace within a couple of years.
 
 ---
 
-## 🗒️ Session Log
+## Session Log
 
-```
-   ━━━━━━━━━━━━━━ ✦ ━ Sessions Attended ━ ✦ ━━━━━━━━━━━━━━
-```
-
-| 📅 Date | 🪪 Character | 📜 Notes |
+| Date | Character | Notes |
 |---|---|---|
 |  |  |  |
 |  |  |  |
 
 ---
 
-## 🔗 Related
+## Related
 
-```
-   ━━━━━━━━━━━━━━━━ ✦ ━ ⚜ ━ ✦ ━━━━━━━━━━━━━━━━
-```
-
-- 🎭 [[Player\|Player]] — the concept of a player vs a character
-- 🪪 [[Character\|Character]] — what a player controls
-- 📝 [[Templates/Player Template\|Player Template]] — character sheet template
-- 🗂️ [[All Players\|All Players]] — every player in the campaign
-- ⚔️ [[All Characters\|All Characters]] — every character in the campaign
-
-```
-   ╔══════════════════════════════════════════════════════════════════╗
-   ║                                                                  ║
-   ║       🎲  Roll well, drink deep, and remember the dead.  🎲      ║
-   ║                                                                  ║
-   ╚══════════════════════════════════════════════════════════════════╝
-```
+- [[Player\|Player]] — the concept of a player vs a character
+- [[Character\|Character]] — what a player controls
+- [[Templates/Player Template\|Player Template]] — character sheet template
+- [[All Players\|All Players]] — every player in the campaign
+- [[All Characters\|All Characters]] — every character in the campaign

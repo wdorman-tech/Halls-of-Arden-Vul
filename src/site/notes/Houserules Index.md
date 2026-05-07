@@ -21,7 +21,7 @@ Every modification the GM has made to the base [[OSRIC\|OSRIC]] rules. Houserule
 - Class: alignment restrictions removed (except [[Cleric\|Cleric]] must match deity); [[Multi-Classing\|Multi-Classing]] and [[Dual-Classing\|Dual-Classing]] not used at start of campaign.
 - [[Magic-User\|Magic-User]]s automatically know [[Read Magic\|Read Magic]] in addition to two random + two chosen spells, and must choose one of the [[Seven Collegia\|Seven Collegia]].
 - [[Cleric\|Cleric]]s must select a deity from [[The Ten\|The Ten]] or [[The Seventeen\|The Seventeen]].
-- Starting rumours: 1d3 [[Adventuring Rumour\|Adventuring Rumour]] + 1d2 [[Historical Rumour\|Historical Rumour]] (only for first character / no rumours for backups).
+- Starting rumours are tracked **per player, not per character**: when a player rolls their *first* character they roll 1d3 [[Adventuring Rumour\|Adventuring Rumour]] + 1d2 [[Historical Rumour\|Historical Rumour]], record them on the player profile, and every subsequent PC that player runs walks in already knowing the same set. Backup characters do not roll new rumours.
 
 ## XP & Leveling
 

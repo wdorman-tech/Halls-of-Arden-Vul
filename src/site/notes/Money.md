@@ -38,7 +38,7 @@ Characters also begin with basic clothes; [[Illusionist\|Illusionist]]s and [[Ma
 ## Related
 
 - [[Equipment\|Equipment]]
-- [[Encumbrance\|Encumbrance]]
+- [[Slot-Based Inventory\|Slot-Based Inventory]]
 - [[Copper Piece\|Copper Piece]]
 - [[Silver Piece\|Silver Piece]]
 - [[Electrum Piece\|Electrum Piece]]

@@ -7,6 +7,9 @@
 
 Half-elves blend [[Elf\|elven]] and [[Human\|Human]] heritage. They typically lack their own culture and adopt the one in which they were raised, so they are common adventurers and intermediaries. Half-elves reach adulthood around 30 and live 250-325 years.
 
+> [!warning] Halls of Arden Vul houserule
+> **[[Common\|Common]] does not exist in this setting.** Anywhere "Common" appears in the language list below, it is **replaced by one additional language of player choice** (see [[Ancestry Houserules\|Ancestry Houserules]]). The OSRIC level caps for half-elves are **removed** in this campaign — see [[Ancestry Houserules\|Ancestry Houserules]].
+
 ## Key Facts
 
 - **Size:** Medium

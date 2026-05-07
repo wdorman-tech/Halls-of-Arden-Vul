@@ -7,6 +7,9 @@
 
 Half-orcs blend [[Orc\|Orc]] and [[Human\|Human]] heritage. Like half-elves, they lack their own culture and adopt the one in which they were raised. Half-orcs reach adulthood around 15 and live only 60-80 years; like elves they have no soul in the human sense, so they cannot be raised from the dead though they may be reincarnated.
 
+> [!warning] Halls of Arden Vul houserule
+> **[[Common\|Common]] does not exist in this setting.** Anywhere "Common" appears in the language list below, it is **replaced by one additional language of player choice** (see [[Ancestry Houserules\|Ancestry Houserules]]). The OSRIC level caps for half-orcs are **removed** in this campaign — see [[Ancestry Houserules\|Ancestry Houserules]].
+
 ## Key Facts
 
 - **Size:** Medium

@@ -8,7 +8,7 @@
 - **Capacity:** 3 pints
 - **Cost:** typically a few sp
 - **Weight:** 1 lb empty / 4 lb full
-- **Encumbrance Slots:** 1
+- **Inventory Slots:** 1
 
 ## Notes
 

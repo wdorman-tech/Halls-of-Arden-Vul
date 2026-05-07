@@ -7,6 +7,11 @@
 
 Humans are the standard ancestry: no special abilities, no level caps (except [[Assassin\|Assassin]], [[Druid\|Druid]], and [[Monk\|Monk]]), and unique access to [[Dual-Class\|dual-classing]]. They live 90-120 years. In [[Halls of Arden Vul\|Halls of Arden Vul]], every human player character must select a [[Culture\|Culture]] — [[Archontean\|Archontean]], [[Thorcin\|Thorcin]], or [[Wiskin\|Wiskin]] — which determines starting languages and cultural background.
 
+> [!warning] Halls of Arden Vul houserules
+> - **[[Common\|Common]] does not exist in this setting.** Anywhere "Common" appears in the language list below, it is **replaced by one additional language of player choice** (see [[Ancestry Houserules\|Ancestry Houserules]]).
+> - **Humans get max HP at level 1** (campaign houserule, to compensate for ancestry-cap removal across the board).
+> - **Culture is required** — pick [[Archontean\|Archontean]], [[Thorcin\|Thorcin]], or [[Wiskin\|Wiskin]] before rolling.
+
 ## Key Facts
 
 - **Size:** Medium

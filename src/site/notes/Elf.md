@@ -7,6 +7,9 @@
 
 Elves are slim, fey-touched folk with delicate features and upswept ears, whose thinking and motives can be alien to mortals. Civilised elves cultivate beautiful, scholarly enclaves and tend chaotic good; wilder elves trend chaotic neutral and can be unfriendly or cruel toward intruders. They live 1200-1600 years but lack souls in the human sense — they cannot be raised from the dead, though they may be reincarnated.
 
+> [!warning] Halls of Arden Vul houserule
+> **[[Common\|Common]] does not exist in this setting.** Anywhere "Common" appears in the language list below, it is **replaced by one additional language of player choice** (see [[Ancestry Houserules\|Ancestry Houserules]]). The OSRIC level caps for elves are **removed** in this campaign — see [[Ancestry Houserules\|Ancestry Houserules]].
+
 ## Key Facts
 
 - **Size:** Medium
